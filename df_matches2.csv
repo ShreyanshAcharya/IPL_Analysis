@@ -1,0 +1,951 @@
+ID,Season,MatchNumber,Venue,TossWinner,TossDecision,SuperOver,WinningTeam,WonBy,Margin,Player_of_Match,Umpire1,Umpire2
+1312200,2022,Final,1,Rajasthan Royals,bat,N,Gujarat Titans,Wickets,7,HH Pandya,1,5
+1312199,2022,Qualifier 2,1,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,JC Buttler,1,5
+1312198,2022,Eliminator,2,Lucknow Super Giants,field,N,Royal Challengers Bangalore,Runs,14,RM Patidar,2,14
+1312197,2022,Qualifier 1,2,Gujarat Titans,field,N,Gujarat Titans,Wickets,7,DA Miller,3,26
+1304116,2022,70,3,Sunrisers Hyderabad,bat,N,Punjab Kings,Wickets,5,Harpreet Brar,4,11
+1304115,2022,69,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,JJ Bumrah,5,17
+1304114,2022,68,4,Chennai Super Kings,bat,N,Rajasthan Royals,Wickets,5,R Ashwin,1,11
+1304113,2022,67,3,Gujarat Titans,bat,N,Royal Challengers Bangalore,Wickets,8,V Kohli,6,8
+1304112,2022,66,5,Lucknow Super Giants,bat,N,Lucknow Super Giants,Runs,2,Q de Kock,7,24
+1304111,2022,65,3,Mumbai Indians,field,N,Sunrisers Hyderabad,Runs,3,RA Tripathi,1,59
+1304110,2022,64,5,Punjab Kings,field,N,Delhi Capitals,Runs,17,SN Thakur,8,5
+1304109,2022,63,4,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,24,TA Boult,9,17
+1304108,2022,62,3,Chennai Super Kings,bat,N,Gujarat Titans,Wickets,7,WP Saha,7,26
+1304107,2022,61,6,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,54,AD Russell,4,6
+1304106,2022,60,4,Royal Challengers Bangalore,field,N,Punjab Kings,Runs,54,JM Bairstow,2,59
+1304105,2022,59,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,DR Sams,10,1
+1304104,2022,58,5,Delhi Capitals,field,N,Delhi Capitals,Wickets,8,MR Marsh,11,5
+1304103,2022,57,6,Gujarat Titans,bat,N,Gujarat Titans,Runs,62,Shubman Gill,6,14
+1304102,2022,56,5,Mumbai Indians,field,N,Kolkata Knight Riders,Runs,52,JJ Bumrah,1,8
+1304101,2022,55,5,Delhi Capitals,field,N,Chennai Super Kings,Runs,91,DP Conway,5,7
+1304100,2022,54,3,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,67,PWH de Silva,3,59
+1304099,2022,53,6,Kolkata Knight Riders,field,N,Lucknow Super Giants,Runs,75,Avesh Khan,4,14
+1304098,2022,52,3,Punjab Kings,bat,N,Rajasthan Royals,Wickets,6,YBK Jaiswal,10,24
+1304097,2022,51,4,Gujarat Titans,field,N,Mumbai Indians,Runs,5,TH David,2,8
+1304096,2022,50,4,Sunrisers Hyderabad,field,N,Delhi Capitals,Runs,21,DA Warner,12,11
+1304095,2022,49,6,Chennai Super Kings,field,N,Royal Challengers Bangalore,Runs,13,HV Patel,6,14
+1304094,2022,48,5,Gujarat Titans,bat,N,Punjab Kings,Wickets,8,K Rabada,7,26
+1304093,2022,47,3,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,RK Singh,2,59
+1304092,2022,46,6,Sunrisers Hyderabad,field,N,Chennai Super Kings,Runs,13,RD Gaikwad,4,6
+1304091,2022,45,3,Lucknow Super Giants,bat,N,Lucknow Super Giants,Runs,6,Mohsin Khan,10,1
+1304090,2022,44,5,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,SA Yadav,3,24
+1304089,2022,43,4,Royal Challengers Bangalore,bat,N,Gujarat Titans,Wickets,6,R Tewatia,13,26
+1304088,2022,42,6,Punjab Kings,field,N,Lucknow Super Giants,Runs,20,KH Pandya,14,25
+1304087,2022,41,3,Delhi Capitals,field,N,Delhi Capitals,Wickets,4,Kuldeep Yadav,4,9
+1304086,2022,40,3,Gujarat Titans,field,N,Gujarat Titans,Wickets,5,Umran Malik,1,12
+1304085,2022,39,6,Royal Challengers Bangalore,field,N,Rajasthan Royals,Runs,29,R Parag,3,6
+1304084,2022,38,3,Chennai Super Kings,field,N,Punjab Kings,Runs,11,S Dhawan,15,17
+1304083,2022,37,3,Mumbai Indians,field,N,Lucknow Super Giants,Runs,36,KL Rahul,15,13
+1304082,2022,36,4,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,9,M Jansen,10,2
+1304081,2022,35,5,Gujarat Titans,bat,N,Gujarat Titans,Runs,8,Rashid Khan,6,25
+1304080,2022,34,3,Delhi Capitals,field,N,Rajasthan Royals,Runs,15,JC Buttler,11,5
+1304079,2022,33,5,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,3,Mukesh Choudhary,3,25
+1304078,2022,32,4,Delhi Capitals,field,N,Delhi Capitals,Wickets,9,Kuldeep Yadav,16,17
+1304077,2022,31,5,Lucknow Super Giants,field,N,Royal Challengers Bangalore,Runs,18,F du Plessis,1,59
+1304076,2022,30,4,Kolkata Knight Riders,field,N,Rajasthan Royals,Runs,7,YS Chahal,8,26
+1304075,2022,29,6,Gujarat Titans,field,N,Gujarat Titans,Wickets,3,DA Miller,6,25
+1304074,2022,28,5,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,7,Umran Malik,9,7
+1304073,2022,27,3,Delhi Capitals,field,N,Royal Challengers Bangalore,Runs,16,KD Karthik,10,2
+1304072,2022,26,4,Mumbai Indians,field,N,Lucknow Super Giants,Runs,18,KL Rahul,4,11
+1304071,2022,25,4,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,7,RA Tripathi,8,26
+1304070,2022,24,5,Rajasthan Royals,field,N,Gujarat Titans,Runs,37,HH Pandya,1,7
+1304069,2022,23,6,Mumbai Indians,field,N,Punjab Kings,Runs,12,MA Agarwal,3,25
+1304068,2022,22,5,Royal Challengers Bangalore,field,N,Chennai Super Kings,Runs,23,S Dube,5,59
+1304067,2022,21,5,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,KS Williamson,10,16
+1304066,2022,20,3,Lucknow Super Giants,field,N,Rajasthan Royals,Runs,3,YS Chahal,4,17
+1304065,2022,19,4,Kolkata Knight Riders,field,N,Delhi Capitals,Runs,44,Kuldeep Yadav,1,2
+1304064,2022,18,6,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,Anuj Rawat,3,6
+1304063,2022,17,5,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,Abhishek Sharma,12,5
+1304062,2022,16,4,Gujarat Titans,field,N,Gujarat Titans,Wickets,6,Shubman Gill,4,26
+1304061,2022,15,5,Lucknow Super Giants,field,N,Lucknow Super Giants,Wickets,6,Q de Kock,16,17
+1304060,2022,14,6,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,PJ Cummins,3,6
+1304059,2022,13,3,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,KD Karthik,4,13
+1304058,2022,12,5,Sunrisers Hyderabad,field,N,Lucknow Super Giants,Runs,12,Avesh Khan,2,12
+1304057,2022,11,4,Chennai Super Kings,field,N,Punjab Kings,Runs,54,LS Livingstone,16,24
+1304056,2022,10,6,Delhi Capitals,field,N,Gujarat Titans,Runs,14,LH Ferguson,6,25
+1304055,2022,9,5,Mumbai Indians,field,N,Rajasthan Royals,Runs,23,JC Buttler,5,9
+1304054,2022,8,3,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,UT Yadav,4,13
+1304053,2022,7,4,Lucknow Super Giants,field,N,Lucknow Super Giants,Wickets,6,E Lewis,16,26
+1304052,2022,6,5,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,3,PWH de Silva,2,12
+1304051,2022,5,6,Sunrisers Hyderabad,field,N,Rajasthan Royals,Runs,61,SV Samson,3,25
+1304050,2022,4,3,Gujarat Titans,field,N,Gujarat Titans,Wickets,5,Mohammed Shami,9,26
+1304049,2022,3,5,Punjab Kings,field,N,Punjab Kings,Wickets,5,OF Smith,5,24
+1304048,2022,2,4,Delhi Capitals,field,N,Delhi Capitals,Wickets,4,Kuldeep Yadav,16,13
+1304047,2022,1,3,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,UT Yadav,4,5
+1254117,2021,Final,7,Kolkata Knight Riders,field,N,Chennai Super Kings,Runs,27,F du Plessis,5,21
+1254116,2021,Qualifier 2,8,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,3,VR Iyer,6,14
+1254115,2021,Eliminator,8,Royal Challengers Bangalore,bat,N,Kolkata Knight Riders,Wickets,4,SP Narine,1,26
+1254114,2021,Qualifier 1,7,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,RD Gaikwad,5,21
+1254101,2021,56,7,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,KS Bharat,6,5
+1254088,2021,55,9,Mumbai Indians,bat,N,Mumbai Indians,Runs,42,Ishan Kishan,17,26
+1254106,2021,54,8,Rajasthan Royals,field,N,Kolkata Knight Riders,Runs,86,Shivam Mavi,14,13
+1254094,2021,53,7,Punjab Kings,field,N,Punjab Kings,Wickets,6,KL Rahul,18,21
+1254095,2021,52,9,Royal Challengers Bangalore,field,N,Sunrisers Hyderabad,Runs,4,KS Williamson,19,25
+1254093,2021,51,8,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,NM Coulter-Nile,4,14
+1254110,2021,50,7,Delhi Capitals,field,N,Delhi Capitals,Wickets,3,AR Patel,4,5
+1254090,2021,48,8,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,6,GJ Maxwell,6,21
+1254109,2021,49,7,Sunrisers Hyderabad,bat,N,Kolkata Knight Riders,Wickets,6,Shubman Gill,2,14
+1254112,2021,46,8,Delhi Capitals,field,N,Delhi Capitals,Wickets,4,AR Patel,4,14
+1254089,2021,47,9,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,RD Gaikwad,1,26
+1254102,2021,45,7,Punjab Kings,field,N,Punjab Kings,Wickets,5,KL Rahul,6,21
+1254091,2021,44,8,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,JR Hazlewood,5,24
+1254103,2021,43,7,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,YS Chahal,20,6
+1254099,2021,42,9,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,KA Pollard,19,26
+1254092,2021,41,8,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,3,SP Narine,5,13
+1254100,2021,40,7,Rajasthan Royals,bat,N,Sunrisers Hyderabad,Wickets,7,JJ Roy,6,12
+1254098,2021,38,9,Kolkata Knight Riders,bat,N,Chennai Super Kings,Wickets,2,RA Jadeja,1,17
+1254108,2021,39,7,Mumbai Indians,field,N,Royal Challengers Bangalore,Runs,54,GJ Maxwell,4,14
+1254097,2021,36,9,Rajasthan Royals,field,N,Delhi Capitals,Runs,33,SS Iyer,1,25
+1254107,2021,37,8,Sunrisers Hyderabad,field,N,Punjab Kings,Runs,5,JO Holder,21,24
+1254113,2021,35,8,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,DJ Bravo,4,5
+1254096,2021,34,9,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,SP Narine,19,26
+1254105,2021,33,7,Sunrisers Hyderabad,bat,N,Delhi Capitals,Wickets,8,A Nortje,6,21
+1254111,2021,32,7,Punjab Kings,field,N,Rajasthan Royals,Runs,2,Kartik Tyagi,4,14
+1254087,2021,31,9,Royal Challengers Bangalore,bat,N,Kolkata Knight Riders,Wickets,9,CV Varun,1,19
+1254104,2021,30,7,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,20,RD Gaikwad,5,21
+1254086,2021,29,1,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,MA Agarwal,4,20
+1254085,2021,28,10,Sunrisers Hyderabad,field,N,Rajasthan Royals,Runs,55,JC Buttler,22,1
+1254084,2021,27,10,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,KA Pollard,6,31
+1254083,2021,26,1,Royal Challengers Bangalore,field,N,Punjab Kings,Runs,34,Harpreet Brar,19,26
+1254082,2021,25,1,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,PP Shaw,4,24
+1254081,2021,24,10,Mumbai Indians,field,N,Mumbai Indians,Wickets,7,Q de Kock,1,6
+1254080,2021,23,10,Sunrisers Hyderabad,bat,N,Chennai Super Kings,Wickets,7,RD Gaikwad,22,31
+1254079,2021,22,1,Delhi Capitals,field,N,Royal Challengers Bangalore,Runs,1,AB de Villiers,19,26
+1254078,2021,21,1,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,EJG Morgan,23,24
+1254077,2021,20,11,Delhi Capitals,bat,Y,Delhi Capitals,SuperOver,,PP Shaw,1,6
+1254076,2021,19,3,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,69,RA Jadeja,4,26
+1254075,2021,18,3,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,CH Morris,12,19
+1254074,2021,17,11,Punjab Kings,field,N,Punjab Kings,Wickets,9,KL Rahul,22,5
+1254073,2021,16,3,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,10,D Padikkal,2,19
+1254072,2021,15,3,Kolkata Knight Riders,field,N,Chennai Super Kings,Runs,18,F du Plessis,20,23
+1254071,2021,14,11,Punjab Kings,bat,N,Sunrisers Hyderabad,Wickets,9,JM Bairstow,18,5
+1254070,2021,13,11,Mumbai Indians,bat,N,Delhi Capitals,Wickets,6,A Mishra,22,1
+1254069,2021,12,3,Rajasthan Royals,field,N,Chennai Super Kings,Runs,45,MM Ali,23,26
+1254068,2021,11,3,Delhi Capitals,field,N,Delhi Capitals,Wickets,6,S Dhawan,4,23
+1254067,2021,10,11,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,38,AB de Villiers,22,5
+1254066,2021,9,11,Mumbai Indians,bat,N,Mumbai Indians,Runs,13,KA Pollard,1,18
+1254065,2021,8,3,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,DL Chahar,4,20
+1254064,2021,7,3,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,JD Unadkat,19,26
+1254063,2021,6,11,Sunrisers Hyderabad,field,N,Royal Challengers Bangalore,Runs,6,GJ Maxwell,5,25
+1254062,2021,5,11,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,10,RD Chahar,22,1
+1254061,2021,4,3,Rajasthan Royals,field,N,Punjab Kings,Runs,4,SV Samson,4,19
+1254060,2021,3,11,Sunrisers Hyderabad,field,N,Kolkata Knight Riders,Runs,10,N Rana,6,5
+1254059,2021,2,3,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,S Dhawan,4,26
+1254058,2021,1,11,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,2,HV Patel,6,5
+1237181,2020,Final,7,Delhi Capitals,bat,N,Mumbai Indians,Wickets,5,TA Boult,1,5
+1237180,2020,Qualifier 2,12,Delhi Capitals,bat,N,Delhi Capitals,Runs,17,MP Stoinis,23,19
+1237178,2020,Eliminator,12,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,6,KS Williamson,23,19
+1237177,2020,Qualifier 1,7,Delhi Capitals,field,N,Mumbai Indians,Runs,57,JJ Bumrah,1,5
+1216495,2020,56,8,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,10,S Nadeem,22,21
+1216505,2020,55,12,Delhi Capitals,field,N,Delhi Capitals,Wickets,6,A Nortje,1,19
+1216530,2020,54,7,Rajasthan Royals,field,N,Kolkata Knight Riders,Runs,60,PJ Cummins,5,23
+1216506,2020,53,12,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,9,RD Gaikwad,9,26
+1216535,2020,51,7,Mumbai Indians,field,N,Mumbai Indians,Wickets,9,Ishan Kishan,24,23
+1216502,2020,52,8,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,5,Sandeep Sharma,6,18
+1216537,2020,50,12,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,BA Stokes,1,19
+1216536,2020,49,7,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,RD Gaikwad,22,21
+1216499,2020,48,12,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,SA Yadav,25,1
+1216524,2020,47,7,Delhi Capitals,field,N,Sunrisers Hyderabad,Runs,88,WP Saha,4,5
+1216520,2020,46,8,Punjab Kings,field,N,Punjab Kings,Wickets,8,CH Gayle,6,21
+1216541,2020,45,12,Mumbai Indians,bat,N,Rajasthan Royals,Wickets,8,BA Stokes,25,26
+1216544,2020,44,7,Royal Challengers Bangalore,bat,N,Chennai Super Kings,Wickets,8,RD Gaikwad,22,21
+1216498,2020,43,7,Sunrisers Hyderabad,field,N,Punjab Kings,Runs,12,CJ Jordan,20,23
+1216497,2020,42,12,Delhi Capitals,field,N,Kolkata Knight Riders,Runs,59,CV Varun,1,9
+1216521,2020,41,8,Mumbai Indians,field,N,Mumbai Indians,Wickets,10,TA Boult,22,27
+1216518,2020,40,7,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,MK Pandey,5,23
+1216494,2020,39,12,Kolkata Knight Riders,bat,N,Royal Challengers Bangalore,Wickets,8,Mohammed Siraj,26,19
+1216546,2020,38,7,Delhi Capitals,bat,N,Punjab Kings,Wickets,5,S Dhawan,22,21
+1216533,2020,37,12,Chennai Super Kings,bat,N,Rajasthan Royals,Wickets,7,JC Buttler,1,26
+1216512,2020,35,12,Sunrisers Hyderabad,field,Y,Kolkata Knight Riders,SuperOver,,LH Ferguson,9,19
+1216517,2020,36,7,Mumbai Indians,bat,Y,Punjab Kings,SuperOver,,KL Rahul,5,23
+1216522,2020,33,7,Rajasthan Royals,bat,N,Royal Challengers Bangalore,Wickets,7,AB de Villiers,4,5
+1216509,2020,34,8,Chennai Super Kings,bat,N,Delhi Capitals,Wickets,5,S Dhawan,6,21
+1216526,2020,32,12,Kolkata Knight Riders,bat,N,Mumbai Indians,Wickets,8,Q de Kock,1,26
+1216531,2020,31,8,Royal Challengers Bangalore,bat,N,Punjab Kings,Wickets,8,KL Rahul,6,22
+1216543,2020,30,7,Delhi Capitals,bat,N,Delhi Capitals,Runs,13,A Nortje,4,5
+1216528,2020,29,7,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,20,RA Jadeja,4,23
+1216540,2020,28,8,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,82,AB de Villiers,21,18
+1216507,2020,26,7,Sunrisers Hyderabad,bat,N,Rajasthan Royals,Wickets,5,R Tewatia,24,23
+1216529,2020,27,12,Delhi Capitals,bat,N,Mumbai Indians,Wickets,5,Q de Kock,1,19
+1216523,2020,24,12,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,2,KD Karthik,25,1
+1216525,2020,25,7,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,37,V Kohli,4,23
+1216500,2020,23,8,Rajasthan Royals,field,N,Delhi Capitals,Runs,46,R Ashwin,6,22
+1216542,2020,22,7,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,69,JM Bairstow,4,5
+1216501,2020,21,12,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,10,RA Tripathi,6,21
+1216511,2020,20,12,Mumbai Indians,bat,N,Mumbai Indians,Runs,57,SA Yadav,26,19
+1216519,2020,19,7,Royal Challengers Bangalore,field,N,Delhi Capitals,Runs,59,AR Patel,5,24
+1216513,2020,18,7,Punjab Kings,bat,N,Chennai Super Kings,Wickets,10,SR Watson,20,5
+1216538,2020,17,8,Mumbai Indians,bat,N,Mumbai Indians,Runs,34,TA Boult,6,21
+1216514,2020,15,12,Rajasthan Royals,bat,N,Royal Challengers Bangalore,Wickets,8,YS Chahal,1,19
+1216515,2020,16,8,Kolkata Knight Riders,field,N,Delhi Capitals,Runs,18,SS Iyer,27,21
+1216516,2020,14,7,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,7,PK Garg,4,23
+1216503,2020,13,12,Punjab Kings,field,N,Mumbai Indians,Runs,48,KA Pollard,26,19
+1216504,2020,12,7,Rajasthan Royals,field,N,Kolkata Knight Riders,Runs,37,Shivam Mavi,6,22
+1216532,2020,11,12,Delhi Capitals,field,N,Sunrisers Hyderabad,Runs,15,Rashid Khan,26,19
+1216547,2020,10,7,Mumbai Indians,field,Y,Royal Challengers Bangalore,SuperOver,,AB de Villiers,5,23
+1216527,2020,9,8,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,4,SV Samson,21,18
+1216545,2020,8,12,Sunrisers Hyderabad,bat,N,Kolkata Knight Riders,Wickets,7,Shubman Gill,1,26
+1216539,2020,7,7,Chennai Super Kings,field,N,Delhi Capitals,Runs,44,PP Shaw,6,21
+1216510,2020,6,7,Royal Challengers Bangalore,field,N,Punjab Kings,Runs,97,KL Rahul,4,23
+1216508,2020,5,12,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,49,RG Sharma,1,19
+1216496,2020,4,8,Chennai Super Kings,field,N,Rajasthan Royals,Runs,16,SV Samson,22,27
+1216534,2020,3,7,Sunrisers Hyderabad,field,N,Royal Challengers Bangalore,Runs,10,YS Chahal,20,5
+1216493,2020,2,7,Punjab Kings,field,Y,Delhi Capitals,SuperOver,,MP Stoinis,4,5
+1216492,2020,1,12,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,AT Rayudu,1,26
+1181768,2019,Final,13,Mumbai Indians,bat,N,Mumbai Indians,Runs,1,JJ Bumrah,28,5
+1181767,2019,Qualifier,14,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,F du Plessis,3,19
+1181766,2019,Eliminator,14,Delhi Capitals,field,N,Delhi Capitals,Wickets,2,RR Pant,3,19
+1181764,2019,Qualifier,11,Chennai Super Kings,bat,N,Mumbai Indians,Wickets,6,SA Yadav,29,5
+1178430,2019,55,15,Punjab Kings,field,N,Punjab Kings,Wickets,6,KL Rahul,22,6
+1178431,2019,56,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,9,HH Pandya,30,31
+1178429,2019,54,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,SO Hetmyer,4,29
+1178428,2019,53,10,Rajasthan Royals,bat,N,Delhi Capitals,Wickets,5,A Mishra,20,28
+1178427,2019,52,15,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,Shubman Gill,3,22
+1178426,2019,51,3,Mumbai Indians,bat,Y,Mumbai Indians,SuperOver,,JJ Bumrah,31,19
+1178425,2019,50,11,Delhi Capitals,field,N,Chennai Super Kings,Runs,80,MS Dhoni,20,5
+1178424,2019,49,16,Rajasthan Royals,field,,,NoResults,,,29,25
+1178423,2019,48,13,Punjab Kings,field,N,Sunrisers Hyderabad,Runs,45,DA Warner,31,19
+1178422,2019,47,2,Mumbai Indians,field,N,Kolkata Knight Riders,Runs,34,AD Russell,28,5
+1178421,2019,46,10,Delhi Capitals,bat,N,Delhi Capitals,Runs,16,S Dhawan,3,6
+1178420,2019,45,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,JD Unadkat,30,24
+1178419,2019,44,11,Chennai Super Kings,field,N,Mumbai Indians,Runs,46,RG Sharma,4,29
+1178418,2019,43,2,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,VR Aaron,20,28
+1178417,2019,42,16,Punjab Kings,field,N,Royal Challengers Bangalore,Runs,17,AB de Villiers,3,22
+1178416,2019,41,11,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,SR Watson,4,29
+1178415,2019,40,17,Delhi Capitals,field,N,Delhi Capitals,Wickets,6,RR Pant,30,19
+1178413,2019,38,13,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,9,KK Ahmed,29,5
+1178414,2019,39,16,Chennai Super Kings,field,N,Royal Challengers Bangalore,Runs,1,PA Patel,16,27
+1178412,2019,37,10,Delhi Capitals,field,N,Delhi Capitals,Wickets,5,SS Iyer,22,25
+1178411,2019,36,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,5,SPD Smith,19,24
+1178410,2019,35,2,Kolkata Knight Riders,field,N,Royal Challengers Bangalore,Runs,10,V Kohli,28,5
+1178409,2019,34,10,Mumbai Indians,bat,N,Mumbai Indians,Runs,40,HH Pandya,3,29
+1178408,2019,33,13,Chennai Super Kings,bat,N,Sunrisers Hyderabad,Wickets,6,DA Warner,28,25
+1178407,2019,32,15,Rajasthan Royals,field,N,Punjab Kings,Runs,12,R Ashwin,4,27
+1178406,2019,31,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,SL Malinga,15,5
+1178404,2019,29,2,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,Imran Tahir,31,16
+1178405,2019,30,13,Sunrisers Hyderabad,field,N,Delhi Capitals,Runs,39,KMA Paul,4,3
+1178402,2019,27,3,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,4,JC Buttler,30,5
+1178403,2019,28,15,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,8,AB de Villiers,19,25
+1178401,2019,26,2,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,S Dhawan,31,24
+1178400,2019,25,17,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,MS Dhoni,3,25
+1178399,2019,24,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,3,KA Pollard,19,24
+1178398,2019,23,11,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,7,DL Chahar,22,16
+1178397,2019,22,15,Punjab Kings,field,N,Punjab Kings,Wickets,6,KL Rahul,20,15
+1178396,2019,21,17,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,8,HF Gurney,4,1
+1178395,2019,20,16,Delhi Capitals,field,N,Delhi Capitals,Wickets,4,K Rabada,19,24
+1178394,2019,19,13,Sunrisers Hyderabad,field,N,Mumbai Indians,Runs,40,AS Joseph,20,5
+1178393,2019,18,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,22,Harbhajan Singh,6,16
+1175372,2019,17,16,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,AD Russell,4,1
+1175371,2019,16,10,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,5,JM Bairstow,22,6
+1175370,2019,15,3,Chennai Super Kings,field,N,Mumbai Indians,Runs,37,HH Pandya,3,16
+1175369,2019,14,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,S Gopal,20,15
+1175368,2019,13,15,Delhi Capitals,field,N,Punjab Kings,Runs,14,SM Curran,4,1
+1175366,2019,11,13,Royal Challengers Bangalore,field,N,Sunrisers Hyderabad,Runs,118,JM Bairstow,6,19
+1175367,2019,12,11,Rajasthan Royals,field,N,Chennai Super Kings,Runs,8,MS Dhoni,31,24
+1175365,2019,10,10,Delhi Capitals,field,Y,Delhi Capitals,SuperOver,,PP Shaw,20,5
+1175364,2019,9,15,Punjab Kings,field,N,Punjab Kings,Wickets,8,MA Agarwal,1,27
+1175363,2019,8,13,Rajasthan Royals,bat,N,Sunrisers Hyderabad,Wickets,5,Rashid Khan,3,22
+1175362,2019,7,16,Royal Challengers Bangalore,field,N,Mumbai Indians,Runs,6,JJ Bumrah,31,19
+1175361,2019,6,2,Punjab Kings,field,N,Kolkata Knight Riders,Runs,28,AD Russell,4,27
+1175360,2019,5,10,Delhi Capitals,bat,N,Chennai Super Kings,Wickets,6,SR Watson,15,5
+1175359,2019,4,17,Rajasthan Royals,field,N,Punjab Kings,Runs,14,CH Gayle,22,6
+1175358,2019,3,3,Mumbai Indians,field,N,Delhi Capitals,Runs,37,RR Pant,19,24
+1175357,2019,2,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,AD Russell,4,1
+1175356,2019,1,11,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,7,Harbhajan Singh,20,3
+1136620,2018,Final,3,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,8,SR Watson,15,19
+1136619,2018,Qualifier,2,Kolkata Knight Riders,field,N,Sunrisers Hyderabad,Runs,14,Rashid Khan,32,5
+1136618,2018,Eliminator,2,Rajasthan Royals,field,N,Kolkata Knight Riders,Runs,25,AD Russell,4,5
+1136617,2018,Qualifier,3,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,2,F du Plessis,22,15
+1136616,2018,56,6,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,L Ngidi,5,24
+1136615,2018,55,10,Delhi Capitals,bat,N,Delhi Capitals,Runs,11,A Mishra,32,31
+1136614,2018,54,13,Sunrisers Hyderabad,bat,N,Kolkata Knight Riders,Wickets,5,CA Lynn,4,19
+1136613,2018,53,17,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,30,S Gopal,3,26
+1136612,2018,52,10,Chennai Super Kings,field,N,Delhi Capitals,Runs,34,HV Patel,32,27
+1136611,2018,51,16,Sunrisers Hyderabad,field,N,Royal Challengers Bangalore,Runs,14,AB de Villiers,20,19
+1136610,2018,50,3,Punjab Kings,field,N,Mumbai Indians,Runs,3,JJ Bumrah,15,5
+1136609,2018,49,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,Kuldeep Yadav,4,32
+1136608,2018,48,18,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,10,UT Yadav,3,26
+1136607,2018,47,3,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,JC Buttler,5,19
+1136606,2018,46,6,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,8,AT Rayudu,15,24
+1136605,2018,45,10,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,5,AB de Villiers,6,32
+1136604,2018,44,18,Punjab Kings,field,N,Kolkata Knight Riders,Runs,31,SP Narine,31,26
+1136603,2018,43,17,Chennai Super Kings,bat,N,Rajasthan Royals,Wickets,4,JC Buttler,15,24
+1136602,2018,42,10,Delhi Capitals,bat,N,Sunrisers Hyderabad,Wickets,9,S Dhawan,20,22
+1136601,2018,41,2,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,102,Ishan Kishan,6,4
+1136600,2018,40,17,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,15,JC Buttler,15,5
+1136599,2018,39,13,Royal Challengers Bangalore,field,N,Sunrisers Hyderabad,Runs,5,KS Williamson,3,26
+1136598,2018,38,18,Punjab Kings,field,N,Punjab Kings,Wickets,6,Mujeeb Ur Rahman,22,19
+1136597,2018,37,3,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,13,HH Pandya,33,32
+1136596,2018,36,13,Delhi Capitals,bat,N,Sunrisers Hyderabad,Wickets,7,Rashid Khan,3,31
+1136595,2018,35,6,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,RA Jadeja,5,24
+1136594,2018,34,18,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,SA Yadav,20,19
+1136593,2018,33,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,SP Narine,33,32
+1136592,2018,32,10,Rajasthan Royals,field,N,Delhi Capitals,Runs,4,RR Pant,31,26
+1136591,2018,31,16,Mumbai Indians,field,N,Royal Challengers Bangalore,Runs,14,TG Southee,15,5
+1136590,2018,30,6,Delhi Capitals,field,N,Chennai Super Kings,Runs,13,SR Watson,20,22
+1136588,2018,28,17,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,11,KS Williamson,3,30
+1136589,2018,29,16,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,CA Lynn,4,29
+1136587,2018,27,6,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,RG Sharma,1,5
+1136586,2018,26,10,Kolkata Knight Riders,field,N,Delhi Capitals,Runs,55,SS Iyer,22,19
+1136585,2018,25,13,Punjab Kings,field,N,Sunrisers Hyderabad,Runs,13,AS Rajpoot,31,24
+1136584,2018,24,16,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,MS Dhoni,29,26
+1136583,2018,23,3,Mumbai Indians,field,N,Sunrisers Hyderabad,Runs,31,Rashid Khan,22,19
+1136582,2018,22,10,Delhi Capitals,field,N,Punjab Kings,Runs,4,AS Rajpoot,30,31
+1136581,2018,21,17,Mumbai Indians,bat,N,Rajasthan Royals,Wickets,3,JC Archer,6,16
+1136580,2018,20,13,Sunrisers Hyderabad,field,N,Chennai Super Kings,Runs,4,AT Rayudu,4,27
+1136579,2018,19,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,6,AB de Villiers,1,31
+1136578,2018,18,2,Punjab Kings,field,N,Punjab Kings,Wickets,9,KL Rahul,33,22
+1136577,2018,17,6,Rajasthan Royals,field,N,Chennai Super Kings,Runs,64,SR Watson,6,5
+1136576,2018,16,15,Punjab Kings,bat,N,Punjab Kings,Runs,15,CH Gayle,4,29
+1136575,2018,15,17,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,N Rana,33,19
+1136574,2018,14,3,Royal Challengers Bangalore,field,N,Mumbai Indians,Runs,46,RG Sharma,5,16
+1136573,2018,13,2,Delhi Capitals,field,N,Kolkata Knight Riders,Runs,71,N Rana,4,30
+1136572,2018,12,15,Chennai Super Kings,field,N,Punjab Kings,Runs,4,CH Gayle,31,27
+1136571,2018,11,16,Royal Challengers Bangalore,field,N,Rajasthan Royals,Runs,19,SV Samson,22,19
+1136570,2018,10,2,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,5,B Stanlake,4,30
+1136569,2018,9,3,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,JJ Roy,6,5
+1136568,2018,8,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,UT Yadav,33,19
+1136567,2018,7,13,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,1,Rashid Khan,31,29
+1136566,2018,6,17,Delhi Capitals,field,N,Rajasthan Royals,Runs,10,SV Samson,6,5
+1136565,2018,5,11,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,SW Billings,4,1
+1136564,2018,4,13,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,9,S Dhawan,29,27
+1136562,2018,2,15,Punjab Kings,field,N,Punjab Kings,Wickets,6,KL Rahul,6,16
+1136563,2018,3,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,4,SP Narine,33,22
+1136561,2018,1,3,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,1,DJ Bravo,1,30
+1082650,2017,Final,13,Mumbai Indians,bat,N,Mumbai Indians,Runs,1,KH Pandya,29,19
+1082649,2017,Qualifier 2,16,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,KV Sharma,29,5
+1082648,2017,Eliminator,16,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,NM Coulter-Nile,4,5
+1082647,2017,Qualifier 1,3,Mumbai Indians,field,N,Rising Pune Supergiant,Runs,20,Washington Sundar,19,22
+1082646,2017,56,10,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,10,HV Patel,31,22
+1082645,2017,55,6,Rising Pune Supergiant,field,N,Rising Pune Supergiant,Wickets,9,JD Unadkat,20,33
+1082644,2017,54,2,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,9,AT Rayudu,30,19
+1082643,2017,53,19,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,Mohammed Siraj,4,5
+1082642,2017,52,10,Delhi Capitals,bat,N,Delhi Capitals,Runs,7,KK Nair,6,31
+1082641,2017,51,3,Mumbai Indians,field,N,Punjab Kings,Runs,7,WP Saha,33,30
+1082640,2017,50,19,Delhi Capitals,field,N,Delhi Capitals,Wickets,2,SS Iyer,24,4
+1082639,2017,49,15,Kolkata Knight Riders,field,N,Punjab Kings,Runs,14,MM Sharma,30,19
+1082638,2017,48,13,Mumbai Indians,bat,N,Sunrisers Hyderabad,Wickets,7,S Dhawan,6,15
+1082636,2017,46,16,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,SP Narine,20,22
+1082637,2017,47,15,Gujarat Lions,field,N,Gujarat Lions,Wickets,6,DR Smith,30,26
+1082635,2017,45,10,Delhi Capitals,field,N,Mumbai Indians,Runs,146,LMP Simmons,5,31
+1082634,2017,44,13,Sunrisers Hyderabad,field,N,Rising Pune Supergiant,Runs,12,JD Unadkat,6,4
+1082633,2017,43,16,Royal Challengers Bangalore,field,N,Punjab Kings,Runs,19,Sandeep Sharma,1,22
+1082632,2017,42,10,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,RR Pant,15,5
+1082631,2017,41,2,Rising Pune Supergiant,field,N,Rising Pune Supergiant,Wickets,4,RA Tripathi,6,30
+1082630,2017,40,10,Delhi Capitals,field,N,Delhi Capitals,Wickets,6,Mohammed Shami,24,5
+1082629,2017,39,6,Rising Pune Supergiant,field,N,Rising Pune Supergiant,Wickets,5,BA Stokes,15,22
+1082628,2017,38,3,Royal Challengers Bangalore,bat,N,Mumbai Indians,Wickets,5,RG Sharma,4,1
+1082627,2017,37,13,Kolkata Knight Riders,field,N,Sunrisers Hyderabad,Runs,48,DA Warner,20,19
+1082626,2017,36,15,Punjab Kings,field,N,Punjab Kings,Wickets,10,Sandeep Sharma,24,31
+1082625,2017,35,20,Gujarat Lions,bat,Y,Mumbai Indians,SuperOver,,KH Pandya,4,1
+1082624,2017,34,6,Royal Challengers Bangalore,field,N,Rising Pune Supergiant,Runs,61,LH Ferguson,6,15
+1082622,2017,32,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,G Gambhir,29,19
+1082623,2017,33,15,Punjab Kings,field,N,Sunrisers Hyderabad,Runs,26,Rashid Khan,5,31
+1082621,2017,31,16,Gujarat Lions,field,N,Gujarat Lions,Wickets,7,AJ Tye,4,22
+1082620,2017,30,6,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,RV Uthappa,20,29
+1082618,2017,28,3,Mumbai Indians,field,N,Rising Pune Supergiant,Runs,3,BA Stokes,30,19
+1082617,2017,27,2,Royal Challengers Bangalore,field,N,Kolkata Knight Riders,Runs,82,NM Coulter-Nile,1,31
+1082616,2017,26,20,Gujarat Lions,field,N,Punjab Kings,Runs,26,HM Amla,4,15
+1082615,2017,24,6,Rising Pune Supergiant,field,N,Rising Pune Supergiant,Wickets,6,MS Dhoni,20,33
+1082614,2017,25,3,Delhi Capitals,field,N,Mumbai Indians,Runs,14,MJ McClenaghan,30,19
+1082613,2017,23,2,Gujarat Lions,field,N,Gujarat Lions,Wickets,4,SK Raina,1,5
+1082612,2017,22,18,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,JC Buttler,15,22
+1082611,2017,21,13,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,15,KS Williamson,1,29
+1082610,2017,20,20,Gujarat Lions,field,N,Royal Challengers Bangalore,Runs,21,CH Gayle,19,26
+1082608,2017,18,10,Delhi Capitals,bat,N,Kolkata Knight Riders,Wickets,4,NM Coulter-Nile,5,31
+1082609,2017,19,13,Punjab Kings,field,N,Sunrisers Hyderabad,Runs,5,B Kumar,20,33
+1082607,2017,17,16,Royal Challengers Bangalore,field,N,Rising Pune Supergiant,Runs,27,BA Stokes,6,22
+1082606,2017,16,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,N Rana,30,19
+1082605,2017,15,10,Delhi Capitals,bat,N,Delhi Capitals,Runs,51,CJ Anderson,24,5
+1082604,2017,14,2,Sunrisers Hyderabad,field,N,Kolkata Knight Riders,Runs,17,RV Uthappa,20,29
+1082603,2017,13,20,Gujarat Lions,field,N,Gujarat Lions,Wickets,7,AJ Tye,30,19
+1082602,2017,12,16,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,KA Pollard,6,4
+1082601,2017,11,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,8,SP Narine,33,29
+1082600,2017,10,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,JJ Bumrah,5,31
+1082599,2017,9,6,Rising Pune Supergiant,field,N,Delhi Capitals,Runs,97,SV Samson,20,19
+1082598,2017,8,18,Royal Challengers Bangalore,bat,N,Punjab Kings,Wickets,8,AR Patel,4,22
+1082597,2017,7,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,N Rana,5,31
+1082596,2017,6,13,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,9,Rashid Khan,33,29
+1082595,2017,5,16,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,15,KM Jadhav,19,26
+1082594,2017,4,18,Punjab Kings,field,N,Punjab Kings,Wickets,6,GJ Maxwell,4,22
+1082593,2017,3,20,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,10,CA Lynn,5,31
+1082592,2017,2,6,Rising Pune Supergiant,field,N,Rising Pune Supergiant,Wickets,7,SPD Smith,30,19
+1082591,2017,1,13,Royal Challengers Bangalore,field,N,Sunrisers Hyderabad,Runs,35,Yuvraj Singh,20,29
+981019,2016,Final,16,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,8,BCJ Cutting,32,3
+981017,2016,Qualifier 2,10,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,4,DA Warner,15,31
+981015,2016,Elimination Final,10,Kolkata Knight Riders,field,N,Sunrisers Hyderabad,Runs,22,MC Henriques,15,22
+981013,2016,Qualifier 1,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,AB de Villiers,4,32
+981011,2016,56,21,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,6,V Kohli,30,3
+981009,2016,55,2,Sunrisers Hyderabad,field,N,Kolkata Knight Riders,Runs,22,YK Pathan,6,15
+981007,2016,54,19,Gujarat Lions,field,N,Gujarat Lions,Wickets,6,SK Raina,4,31
+981005,2016,53,14,Punjab Kings,bat,N,Rising Pune Supergiants,Wickets,4,MS Dhoni,32,5
+981003,2016,52,21,Delhi Capitals,field,N,Delhi Capitals,Wickets,6,KK Nair,30,3
+981001,2016,51,19,Gujarat Lions,field,N,Gujarat Lions,Wickets,6,DR Smith,4,31
+980999,2016,50,16,Punjab Kings,field,N,Royal Challengers Bangalore,Runs,82,V Kohli,6,15
+980997,2016,49,14,Rising Pune Supergiant,field,N,Rising Pune Supergiants,Runs,19,AB Dinda,5,22
+980995,2016,48,2,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,9,V Kohli,1,30
+980991,2016,46,15,Punjab Kings,bat,N,Sunrisers Hyderabad,Wickets,7,HM Amla,6,15
+980993,2016,47,14,Delhi Capitals,field,N,Mumbai Indians,Runs,80,KH Pandya,5,31
+980987,2016,44,16,Gujarat Lions,field,N,Royal Challengers Bangalore,Runs,144,AB de Villiers,20,26
+980989,2016,45,2,Rising Pune Supergiant,bat,N,Kolkata Knight Riders,Wickets,8,YK Pathan,30,3
+980985,2016,43,14,Mumbai Indians,bat,N,Punjab Kings,Wickets,7,MP Stoinis,32,31
+980983,2016,42,13,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,CH Morris,34,15
+980981,2016,41,16,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,KH Pandya,20,22
+980979,2016,40,14,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,4,A Zampa,1,26
+980977,2016,39,15,Punjab Kings,field,N,Royal Challengers Bangalore,Runs,1,SR Watson,4,32
+980975,2016,38,2,Gujarat Lions,field,N,Gujarat Lions,Wickets,5,P Kumar,15,16
+980973,2016,37,14,Mumbai Indians,field,N,Sunrisers Hyderabad,Runs,85,A Nehra,19,22
+980971,2016,36,15,Delhi Capitals,field,N,Punjab Kings,Runs,9,MP Stoinis,32,31
+980969,2016,35,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,V Kohli,1,3
+980967,2016,34,13,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,5,B Kumar,15,19
+980965,2016,33,10,Rising Pune Supergiant,field,N,Rising Pune Supergiants,Wickets,7,AM Rahane,22,16
+980963,2016,32,2,Punjab Kings,field,N,Kolkata Knight Riders,Runs,7,AD Russell,4,32
+980961,2016,31,20,Delhi Capitals,field,N,Delhi Capitals,Wickets,8,RR Pant,1,3
+980959,2016,30,16,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,AD Russell,15,19
+980955,2016,28,20,Gujarat Lions,field,N,Punjab Kings,Runs,23,AR Patel,3,26
+980957,2016,29,6,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,RG Sharma,20,16
+980951,2016,26,10,Kolkata Knight Riders,field,N,Delhi Capitals,Runs,27,CR Brathwaite,6,15
+980953,2016,27,13,Royal Challengers Bangalore,field,N,Sunrisers Hyderabad,Runs,15,DA Warner,4,32
+980949,2016,25,6,Gujarat Lions,field,N,Gujarat Lions,Wickets,3,DR Smith,1,3
+980947,2016,24,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,RG Sharma,5,16
+980945,2016,23,10,Delhi Capitals,field,N,Gujarat Lions,Runs,1,CH Morris,15,19
+980943,2016,22,13,Rising Pune Supergiant,field,N,Rising Pune Supergiants,Runs,34,AB Dinda,20,31
+980941,2016,21,15,Punjab Kings,field,N,Mumbai Indians,Runs,25,PA Patel,5,16
+980939,2016,20,6,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,2,SA Yadav,1,30
+980937,2016,19,20,Royal Challengers Bangalore,bat,N,Gujarat Lions,Wickets,6,V Kohli,34,3
+980935,2016,18,13,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,5,Mustafizur Rahman,4,31
+980933,2016,17,10,Mumbai Indians,field,N,Delhi Capitals,Runs,10,SV Samson,19,22
+980931,2016,16,6,Rising Pune Supergiant,field,N,Royal Challengers Bangalore,Runs,13,AB de Villiers,1,26
+980929,2016,15,20,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,10,B Kumar,34,32
+980927,2016,14,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,RG Sharma,4,31
+980925,2016,13,15,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,RV Uthappa,19,22
+980923,2016,12,13,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,7,DA Warner,32,26
+980921,2016,11,16,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,Q de Kock,27,30
+980919,2016,10,15,Rising Pune Supergiant,bat,N,Punjab Kings,Wickets,6,M Vohra,19,22
+980917,2016,9,3,Gujarat Lions,field,N,Gujarat Lions,Wickets,3,AJ Finch,32,26
+980915,2016,8,13,Sunrisers Hyderabad,bat,N,Kolkata Knight Riders,Wickets,8,G Gambhir,4,31
+980913,2016,7,10,Delhi Capitals,field,N,Delhi Capitals,Wickets,8,A Mishra,19,22
+980911,2016,6,20,Rising Pune Supergiant,bat,N,Gujarat Lions,Wickets,7,AJ Finch,27,31
+980909,2016,5,2,Mumbai Indians,field,N,Mumbai Indians,Wickets,6,RG Sharma,5,19
+980907,2016,4,16,Sunrisers Hyderabad,field,N,Royal Challengers Bangalore,Runs,45,AB de Villiers,32,26
+980905,2016,3,15,Gujarat Lions,field,N,Gujarat Lions,Wickets,5,AJ Finch,4,27
+980903,2016,2,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,9,AD Russell,19,22
+980901,2016,1,3,Mumbai Indians,bat,N,Rising Pune Supergiants,Wickets,9,AM Rahane,32,31
+829823,2015,Final,2,Chennai Super Kings,field,N,Mumbai Indians,Runs,41,RG Sharma,32,21
+829821,2015,Qualifier 2,22,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,3,A Nehra,4,1
+829819,2015,Eliminator,6,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,71,AB de Villiers,4,22
+829817,2015,Qualifier 1,3,Mumbai Indians,bat,N,Mumbai Indians,Runs,25,KA Pollard,32,21
+829813,2015,55,16,Royal Challengers Bangalore,field,,,NoResults,,,32,18
+829815,2015,56,13,Sunrisers Hyderabad,bat,N,Mumbai Indians,Wickets,9,MJ McClenaghan,1,38
+829811,2015,54,4,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,9,SR Watson,35,21
+829809,2015,53,15,Punjab Kings,bat,N,Chennai Super Kings,Wickets,7,P Negi,31,22
+829807,2015,52,13,Sunrisers Hyderabad,bat,N,Royal Challengers Bangalore,Wickets,6,V Kohli,4,32
+829805,2015,51,3,Kolkata Knight Riders,field,N,Mumbai Indians,Runs,5,HH Pandya,21,27
+829803,2015,50,15,Royal Challengers Bangalore,field,N,Punjab Kings,Runs,22,AR Patel,36,22
+829801,2015,49,21,Chennai Super Kings,bat,N,Delhi Capitals,Wickets,6,Z Khan,21,27
+829799,2015,48,13,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,5,DA Warner,4,32
+829797,2015,47,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,12,RA Jadeja,15,31
+829795,2015,46,3,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,39,AB de Villiers,36,22
+829793,2015,45,21,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,6,MC Henriques,27,19
+829791,2015,44,2,Punjab Kings,bat,N,Kolkata Knight Riders,Wickets,1,AD Russell,4,32
+829789,2015,43,11,Chennai Super Kings,bat,N,Mumbai Indians,Wickets,6,HH Pandya,1,31
+829787,2015,41,4,Rajasthan Royals,field,N,Sunrisers Hyderabad,Runs,7,EJG Morgan,36,22
+829761,2015,42,2,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,13,PP Chawla,4,15
+829785,2015,40,16,Punjab Kings,field,N,Royal Challengers Bangalore,Runs,138,CH Gayle,21,27
+829783,2015,39,3,Delhi Capitals,bat,N,Mumbai Indians,Wickets,5,Harbhajan Singh,32,1
+829781,2015,38,2,Sunrisers Hyderabad,field,N,Kolkata Knight Riders,Runs,35,UT Yadav,4,15
+829779,2015,37,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,24,SK Raina,22,38
+829775,2015,35,15,Mumbai Indians,bat,N,Mumbai Indians,Runs,23,LMP Simmons,21,27
+829777,2015,36,4,Delhi Capitals,field,N,Rajasthan Royals,Runs,14,AM Rahane,32,1
+829771,2015,33,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,Mandeep Singh,36,9
+829773,2015,34,13,Chennai Super Kings,field,N,Sunrisers Hyderabad,Runs,22,DA Warner,4,18
+829769,2015,32,3,Rajasthan Royals,field,N,Mumbai Indians,Runs,8,AT Rayudu,32,31
+829767,2015,31,10,Delhi Capitals,field,N,Delhi Capitals,Wickets,9,NM Coulter-Nile,21,19
+829723,2015,30,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,AD Russell,4,15
+829763,2015,29,16,Rajasthan Royals,field,,,NoResults,,,36,9
+829765,2015,28,11,Kolkata Knight Riders,field,N,Chennai Super Kings,Runs,2,DJ Bravo,35,27
+829759,2015,27,15,Punjab Kings,field,N,Sunrisers Hyderabad,Runs,20,TA Boult,32,1
+829757,2015,26,10,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,10,VR Aaron,15,19
+829753,2015,24,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,97,BB McCullum,36,22
+829751,2015,23,3,Mumbai Indians,bat,N,Mumbai Indians,Runs,20,SL Malinga,32,1
+829749,2015,22,23,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,9,MA Starc,15,19
+829747,2015,21,10,Mumbai Indians,field,N,Delhi Capitals,Runs,37,SS Iyer,37,31
+829743,2015,19,14,Kolkata Knight Riders,field,N,Sunrisers Hyderabad,Runs,16,DA Warner,21,27
+829745,2015,20,16,Royal Challengers Bangalore,field,N,Chennai Super Kings,Runs,27,SK Raina,36,22
+829741,2015,18,23,Punjab Kings,field,Y,Punjab Kings,SuperOver,,SE Marsh,15,19
+829739,2015,17,10,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,UT Yadav,37,1
+829735,2015,15,23,Chennai Super Kings,bat,N,Rajasthan Royals,Wickets,8,AM Rahane,4,15
+829737,2015,16,16,Royal Challengers Bangalore,field,N,Mumbai Indians,Runs,18,Harbhajan Singh,21,27
+829731,2015,13,14,Delhi Capitals,bat,N,Delhi Capitals,Runs,4,JP Duminy,9,19
+829733,2015,14,6,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,4,AD Russell,37,31
+829729,2015,12,3,Mumbai Indians,bat,N,Chennai Super Kings,Wickets,6,A Nehra,4,15
+829727,2015,11,14,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,AM Rahane,9,19
+829725,2015,10,6,Punjab Kings,bat,N,Delhi Capitals,Wickets,5,MA Agarwal,1,38
+829721,2015,9,23,Mumbai Indians,bat,N,Rajasthan Royals,Wickets,7,SPD Smith,4,37
+829719,2015,8,16,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,DA Warner,35,21
+829717,2015,7,3,Mumbai Indians,field,N,Punjab Kings,Runs,18,GJ Bailey,4,18
+829715,2015,6,10,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,DJ Hooda,37,1
+829713,2015,5,2,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,3,CH Gayle,19,22
+829711,2015,4,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,45,BB McCullum,21,27
+829709,2015,3,6,Punjab Kings,field,N,Rajasthan Royals,Runs,26,JP Faulkner,37,1
+829707,2015,2,11,Delhi Capitals,field,N,Chennai Super Kings,Runs,1,A Nehra,21,27
+829705,2015,1,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,M Morkel,19,22
+734049,2014,Final,16,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,3,MK Pandey,32,3
+734047,2014,Qualifier 2,3,Chennai Super Kings,field,N,Punjab Kings,Runs,24,V Sehwag,32,16
+734045,2014,Eliminator,4,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,7,SK Raina,27,3
+734043,2014,Qualifier 1,2,Punjab Kings,field,N,Kolkata Knight Riders,Runs,28,UT Yadav,29,19
+734041,2014,56,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,CJ Anderson,38,16
+734039,2014,55,15,Punjab Kings,field,N,Punjab Kings,Wickets,7,M Vohra,32,27
+734035,2014,53,16,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,8,MS Dhoni,4,29
+734037,2014,54,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,4,YK Pathan,35,3
+734031,2014,51,3,Delhi Capitals,field,N,Mumbai Indians,Runs,15,MEK Hussey,19,16
+734033,2014,52,15,Rajasthan Royals,field,N,Punjab Kings,Runs,16,SE Marsh,32,9
+734027,2014,49,2,Royal Challengers Bangalore,field,N,Kolkata Knight Riders,Runs,30,RV Uthappa,4,31
+734029,2014,50,22,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,6,DA Warner,3,22
+734025,2014,48,15,Mumbai Indians,field,N,Mumbai Indians,Wickets,7,LMP Simmons,32,27
+734023,2014,47,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,8,RV Uthappa,35,22
+734021,2014,46,13,Royal Challengers Bangalore,bat,N,Sunrisers Hyderabad,Wickets,7,DA Warner,4,29
+734019,2014,45,10,Punjab Kings,field,N,Punjab Kings,Wickets,4,AR Patel,32,9
+734017,2014,44,23,Mumbai Indians,bat,N,Mumbai Indians,Runs,25,MEK Hussey,19,16
+734013,2014,42,22,Chennai Super Kings,bat,N,Royal Challengers Bangalore,Wickets,5,AB de Villiers,3,22
+734015,2014,43,13,Sunrisers Hyderabad,bat,N,Kolkata Knight Riders,Wickets,7,UT Yadav,29,31
+734011,2014,41,23,Delhi Capitals,field,N,Rajasthan Royals,Runs,62,AM Rahane,19,16
+734009,2014,40,24,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,RV Uthappa,4,29
+734007,2014,39,13,Punjab Kings,field,N,Punjab Kings,Wickets,6,WP Saha,27,9
+734005,2014,38,16,Delhi Capitals,field,N,Royal Challengers Bangalore,Runs,16,Yuvraj Singh,38,16
+734003,2014,37,22,Rajasthan Royals,bat,N,Chennai Super Kings,Wickets,5,RA Jadeja,3,22
+734001,2014,36,13,Sunrisers Hyderabad,bat,N,Mumbai Indians,Wickets,7,AT Rayudu,32,27
+733997,2014,34,24,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,9,G Gambhir,29,31
+733999,2014,35,16,Royal Challengers Bangalore,bat,N,Rajasthan Royals,Wickets,5,JP Faulkner,19,16
+733995,2014,33,3,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,DR Smith,32,27
+733993,2014,32,10,Sunrisers Hyderabad,field,N,Sunrisers Hyderabad,Wickets,8,DW Steyn,35,3
+733991,2014,31,16,Royal Challengers Bangalore,field,N,Punjab Kings,Runs,32,Sandeep Sharma,19,38
+733989,2014,30,23,Rajasthan Royals,field,N,Sunrisers Hyderabad,Runs,32,B Kumar,4,29
+733985,2014,28,10,Delhi Capitals,bat,N,Kolkata Knight Riders,Wickets,8,G Gambhir,3,22
+733987,2014,29,24,Chennai Super Kings,field,N,Punjab Kings,Runs,44,GJ Maxwell,32,9
+733983,2014,27,3,Royal Challengers Bangalore,field,N,Mumbai Indians,Runs,19,RG Sharma,19,38
+733981,2014,26,10,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,8,DR Smith,35,3
+733979,2014,25,23,Kolkata Knight Riders,field,N,Rajasthan Royals,Runs,10,PV Tambe,29,31
+733977,2014,24,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,AB de Villiers,32,27
+733975,2014,23,10,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,KK Nair,39,19
+733973,2014,22,3,Punjab Kings,bat,N,Mumbai Indians,Wickets,5,CJ Anderson,3,22
+733971,2014,21,22,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,34,RA Jadeja,4,29
+729317,2014,20,7,Mumbai Indians,field,N,Sunrisers Hyderabad,Runs,15,B Kumar,32,15
+729315,2014,19,12,Rajasthan Royals,bat,Y,Rajasthan Royals,SuperOver,,JP Faulkner,40,4
+729313,2014,18,7,Punjab Kings,field,N,Punjab Kings,Wickets,5,Sandeep Sharma,41,19
+729311,2014,17,8,Sunrisers Hyderabad,bat,N,Chennai Super Kings,Wickets,5,DR Smith,4,27
+729309,2014,16,8,Mumbai Indians,bat,N,Delhi Capitals,Wickets,6,M Vijay,40,27
+729307,2014,15,12,Kolkata Knight Riders,field,N,Punjab Kings,Runs,23,Sandeep Sharma,32,21
+729305,2014,14,12,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,PV Tambe,32,22
+729301,2014,12,7,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,4,AJ Finch,15,19
+729303,2014,13,7,Mumbai Indians,bat,N,Chennai Super Kings,Wickets,7,MM Sharma,41,15
+729299,2014,11,8,Royal Challengers Bangalore,field,N,Kolkata Knight Riders,Runs,2,CA Lynn,40,27
+729297,2014,10,7,Rajasthan Royals,field,N,Chennai Super Kings,Runs,7,RA Jadeja,32,21
+729295,2014,9,8,Sunrisers Hyderabad,field,N,Punjab Kings,Runs,72,GJ Maxwell,15,19
+729293,2014,8,12,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,93,SK Raina,21,22
+729291,2014,7,8,Punjab Kings,field,N,Punjab Kings,Wickets,7,GJ Maxwell,41,15
+729289,2014,6,7,Kolkata Knight Riders,bat,N,Delhi Capitals,Wickets,4,JP Duminy,40,27
+729287,2014,5,7,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,PA Patel,40,4
+729285,2014,4,12,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,4,AM Rahane,41,21
+729283,2014,3,12,Chennai Super Kings,bat,N,Punjab Kings,Wickets,6,GJ Maxwell,21,22
+729281,2014,2,8,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,8,YS Chahal,40,19
+729279,2014,1,12,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,41,JH Kallis,15,21
+598073,2013,Final,2,Mumbai Indians,bat,N,Mumbai Indians,Runs,23,KA Pollard,32,52
+598072,2013,Qualifier 2,2,Rajasthan Royals,bat,N,Mumbai Indians,Wickets,4,Harbhajan Singh,22,52
+598071,2013,Eliminator,10,Sunrisers Hyderabad,bat,N,Rajasthan Royals,Wickets,4,BJ Hodge,19,16
+598070,2013,Qualifier 1,10,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,48,MEK Hussey,29,16
+598069,2013,72,13,Kolkata Knight Riders,bat,N,Sunrisers Hyderabad,Wickets,5,PA Patel,42,44
+598067,2013,71,25,Pune Warriors,bat,N,Pune Warriors,Runs,38,LJ Wright,29,52
+598068,2013,70,16,Chennai Super Kings,field,N,Royal Challengers Bangalore,Runs,24,V Kohli,22,16
+598066,2013,69,26,Mumbai Indians,field,N,Punjab Kings,Runs,50,Azhar Mahmood,32,31
+598065,2013,68,13,Sunrisers Hyderabad,bat,N,Sunrisers Hyderabad,Runs,23,A Mishra,42,4
+598028,2013,67,26,Delhi Capitals,field,N,Punjab Kings,Runs,7,DA Miller,32,19
+598063,2013,66,3,Rajasthan Royals,field,N,Mumbai Indians,Runs,14,AP Tare,42,44
+598061,2013,65,22,Kolkata Knight Riders,field,N,Pune Warriors,Runs,7,MK Pandey,29,38
+598062,2013,64,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,33,MS Dhoni,22,16
+598045,2013,63,16,Punjab Kings,field,N,Punjab Kings,Wickets,7,AC Gilchrist,32,19
+598060,2013,62,3,Sunrisers Hyderabad,bat,N,Mumbai Indians,Wickets,7,KA Pollard,4,52
+598058,2013,61,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,5,SR Watson,32,31
+598057,2013,60,22,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,JH Kallis,29,38
+598056,2013,59,15,Punjab Kings,field,N,Sunrisers Hyderabad,Runs,30,PA Patel,43,16
+598055,2013,58,25,Pune Warriors,bat,N,Mumbai Indians,Wickets,5,MG Johnson,42,4
+598054,2013,57,10,Delhi Capitals,field,N,Royal Challengers Bangalore,Runs,4,JD Unadkat,29,38
+598053,2013,56,25,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,46,G Gambhir,42,44
+598052,2013,55,15,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,8,KK Cooper,32,19
+598051,2013,54,13,Sunrisers Hyderabad,field,N,Chennai Super Kings,Runs,77,SK Raina,43,29
+598049,2013,52,17,Delhi Capitals,bat,N,Rajasthan Royals,Wickets,9,AM Rahane,40,16
+598050,2013,53,3,Mumbai Indians,bat,N,Mumbai Indians,Runs,65,SR Tendulkar,32,19
+598064,2013,51,15,Punjab Kings,field,N,Punjab Kings,Wickets,6,DA Miller,27,29
+598047,2013,50,17,Pune Warriors,bat,N,Rajasthan Royals,Wickets,5,AM Rahane,22,16
+598046,2013,49,3,Mumbai Indians,bat,N,Mumbai Indians,Runs,60,MG Johnson,32,31
+598044,2013,48,13,Delhi Capitals,bat,N,Sunrisers Hyderabad,Wickets,6,DJG Sammy,42,44
+598043,2013,47,2,Rajasthan Royals,bat,N,Kolkata Knight Riders,Wickets,8,YK Pathan,32,31
+598042,2013,46,25,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,17,AB de Villiers,40,22
+598041,2013,45,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,15,SK Raina,15,27
+598040,2013,44,21,Kolkata Knight Riders,bat,N,Delhi Capitals,Wickets,7,DA Warner,32,31
+598039,2013,43,13,Mumbai Indians,bat,N,Sunrisers Hyderabad,Wickets,7,I Sharma,42,44
+598038,2013,42,25,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,37,MS Dhoni,43,52
+598037,2013,41,3,Mumbai Indians,bat,N,Mumbai Indians,Runs,4,RG Sharma,42,4
+598036,2013,40,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,4,SV Samson,15,38
+598034,2013,38,11,Kolkata Knight Riders,field,N,Chennai Super Kings,Runs,14,MEK Hussey,40,52
+598035,2013,39,21,Pune Warriors,field,N,Delhi Capitals,Runs,15,DA Warner,31,19
+598033,2013,37,3,Mumbai Indians,bat,N,Mumbai Indians,Runs,58,DR Smith,42,44
+598032,2013,36,17,Sunrisers Hyderabad,bat,N,Rajasthan Royals,Wickets,8,JP Faulkner,27,38
+598031,2013,35,2,Punjab Kings,bat,N,Kolkata Knight Riders,Wickets,6,JH Kallis,31,19
+598030,2013,34,11,Sunrisers Hyderabad,bat,N,Chennai Super Kings,Wickets,5,MS Dhoni,40,43
+598029,2013,33,2,Kolkata Knight Riders,bat,N,Mumbai Indians,Wickets,5,DR Smith,32,19
+598059,2013,32,10,Punjab Kings,field,N,Punjab Kings,Wickets,5,Harmeet Singh,27,38
+598027,2013,31,16,Pune Warriors,field,N,Royal Challengers Bangalore,Runs,130,CH Gayle,40,22
+598026,2013,30,11,Rajasthan Royals,bat,N,Chennai Super Kings,Wickets,5,MEK Hussey,44,4
+598025,2013,29,15,Punjab Kings,field,N,Punjab Kings,Wickets,7,DA Miller,15,38
+598024,2013,28,10,Mumbai Indians,bat,N,Delhi Capitals,Wickets,9,V Sehwag,32,19
+598023,2013,27,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,R Vinay Kumar,40,22
+598022,2013,26,2,Kolkata Knight Riders,bat,N,Chennai Super Kings,Wickets,4,RA Jadeja,42,4
+598021,2013,25,13,Punjab Kings,bat,N,Sunrisers Hyderabad,Wickets,5,GH Vihari,32,31
+598020,2013,24,10,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,86,MEK Hussey,15,27
+598019,2013,23,17,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,87,AM Rahane,40,22
+598018,2013,22,6,Pune Warriors,field,N,Sunrisers Hyderabad,Runs,11,A Mishra,42,4
+598016,2013,20,15,Kolkata Knight Riders,field,N,Punjab Kings,Runs,4,MS Gony,31,52
+598017,2013,21,16,Royal Challengers Bangalore,field,Y,Royal Challengers Bangalore,SuperOver,,V Kohli,15,27
+598015,2013,19,11,Pune Warriors,bat,N,Pune Warriors,Runs,24,SPD Smith,42,4
+598014,2013,18,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,JP Faulkner,40,22
+598013,2013,17,2,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,48,G Gambhir,15,27
+598012,2013,16,11,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,RA Jadeja,42,4
+598011,2013,15,3,Mumbai Indians,bat,N,Mumbai Indians,Runs,41,RG Sharma,19,52
+598010,2013,14,10,Delhi Capitals,bat,N,Sunrisers Hyderabad,Wickets,3,A Mishra,40,60
+598009,2013,13,25,Rajasthan Royals,bat,N,Pune Warriors,Wickets,7,AJ Finch,15,38
+598008,2013,12,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,8,CH Gayle,42,4
+598007,2013,11,15,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,10,MEK Hussey,40,22
+598048,2013,9,16,Sunrisers Hyderabad,bat,N,Royal Challengers Bangalore,Wickets,7,V Kohli,19,52
+598006,2013,10,3,Mumbai Indians,bat,N,Mumbai Indians,Runs,44,KD Karthik,15,27
+598005,2013,8,17,Kolkata Knight Riders,field,N,Rajasthan Royals,Runs,19,SK Trivedi,40,43
+598004,2013,7,13,Royal Challengers Bangalore,bat,Y,Sunrisers Hyderabad,SuperOver,,GH Vihari,4,19
+598003,2013,6,25,Pune Warriors,bat,N,Punjab Kings,Wickets,8,M Vohra,44,52
+598002,2013,5,11,Mumbai Indians,bat,N,Mumbai Indians,Runs,9,KA Pollard,15,27
+598001,2013,4,10,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,5,R Dravid,43,22
+598000,2013,3,13,Pune Warriors,field,N,Sunrisers Hyderabad,Runs,22,A Mishra,19,52
+597999,2013,2,16,Mumbai Indians,field,N,Royal Challengers Bangalore,Runs,2,CH Gayle,27,22
+597998,2013,1,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,6,SP Narine,19,52
+548381,2012,Final,11,Chennai Super Kings,bat,N,Kolkata Knight Riders,Wickets,5,MS Bisla,41,52
+548380,2012,Qualifier 2,11,Delhi Capitals,field,N,Chennai Super Kings,Runs,86,M Vijay,45,52
+548379,2012,Elimination Final,16,Mumbai Indians,field,N,Chennai Super Kings,Runs,38,MS Dhoni,41,32
+548378,2012,Qualifier 1,25,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,18,YK Pathan,45,52
+548377,2012,72,17,Rajasthan Royals,bat,N,Mumbai Indians,Wickets,10,DR Smith,32,22
+548376,2012,71,13,Royal Challengers Bangalore,field,N,Deccan Chargers,Runs,9,DW Steyn,19,52
+548375,2012,70,25,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,34,Shakib Al Hasan,44,45
+548374,2012,69,26,Delhi Capitals,field,N,Delhi Capitals,Wickets,6,UT Yadav,41,27
+548373,2012,68,13,Rajasthan Royals,bat,N,Deccan Chargers,Wickets,5,DW Steyn,19,52
+548371,2012,66,26,Punjab Kings,field,N,Punjab Kings,Wickets,6,AC Gilchrist,27,46
+548372,2012,67,10,Delhi Capitals,field,N,Royal Challengers Bangalore,Runs,21,CH Gayle,32,22
+548370,2012,65,3,Mumbai Indians,field,N,Kolkata Knight Riders,Runs,32,SP Narine,43,45
+548369,2012,64,10,Punjab Kings,bat,N,Delhi Capitals,Wickets,5,UT Yadav,32,3
+548368,2012,63,2,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,5,MEK Hussey,36,52
+548367,2012,62,16,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,AT Rayudu,43,45
+548366,2012,61,15,Deccan Chargers,bat,N,Punjab Kings,Wickets,4,DJ Hussey,32,3
+548365,2012,60,17,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,45,A Chandila,41,46
+548364,2012,59,11,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,9,BW Hilfenhaus,43,45
+548363,2012,58,2,Mumbai Indians,bat,N,Mumbai Indians,Runs,27,RG Sharma,19,52
+548362,2012,57,25,Pune Warriors,field,N,Royal Challengers Bangalore,Runs,35,CH Gayle,41,46
+548361,2012,56,17,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,BW Hilfenhaus,3,22
+548329,2012,55,13,Deccan Chargers,bat,N,Delhi Capitals,Wickets,9,DA Warner,36,52
+548360,2012,54,3,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,9,CH Gayle,41,27
+548359,2012,53,13,Deccan Chargers,field,N,Punjab Kings,Runs,25,Mandeep Singh,32,3
+548358,2012,52,25,Pune Warriors,bat,N,Rajasthan Royals,Wickets,7,SR Watson,42,45
+548357,2012,51,10,Delhi Capitals,bat,N,Kolkata Knight Riders,Wickets,6,JH Kallis,36,19
+548356,2012,50,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,5,AB de Villiers,32,3
+548355,2012,49,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,2,DR Smith,42,44
+548354,2012,48,15,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,43,SR Watson,36,52
+548353,2012,47,2,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,7,SP Narine,41,46
+548352,2012,46,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,10,SK Raina,32,3
+548351,2012,45,25,Mumbai Indians,bat,N,Mumbai Indians,Runs,1,SL Malinga,42,44
+548350,2012,44,16,Punjab Kings,field,N,Punjab Kings,Wickets,4,Azhar Mahmood,41,22
+548349,2012,43,17,Rajasthan Royals,bat,N,Delhi Capitals,Wickets,6,P Negi,36,52
+548348,2012,42,24,Deccan Chargers,bat,N,Deccan Chargers,Runs,13,KC Sangakkara,40,4
+548347,2012,41,11,Chennai Super Kings,bat,N,Kolkata Knight Riders,Wickets,5,G Gambhir,41,22
+548346,2012,40,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,DW Steyn,4,3
+548345,2012,39,10,Delhi Capitals,bat,N,Delhi Capitals,Runs,1,V Sehwag,19,16
+548344,2012,38,2,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,47,G Gambhir,42,45
+548343,2012,37,11,Punjab Kings,bat,N,Punjab Kings,Runs,7,Mandeep Singh,41,46
+548342,2012,36,10,Mumbai Indians,field,N,Delhi Capitals,Runs,37,V Sehwag,40,3
+548341,2012,35,25,Deccan Chargers,bat,N,Deccan Chargers,Runs,18,CL White,19,16
+548339,2012,33,15,Punjab Kings,bat,N,Mumbai Indians,Wickets,4,AT Rayudu,40,3
+548337,2012,31,25,Pune Warriors,bat,N,Delhi Capitals,Wickets,8,V Sehwag,19,16
+548336,2012,30,17,Rajasthan Royals,field,N,Royal Challengers Bangalore,Runs,46,AB de Villiers,42,44
+548334,2012,28,3,Mumbai Indians,bat,N,Punjab Kings,Wickets,6,SE Marsh,19,16
+548335,2012,29,24,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,5,B Lee,41,46
+548333,2012,27,10,Delhi Capitals,field,N,Pune Warriors,Runs,20,SC Ganguly,42,43
+548332,2012,26,11,Rajasthan Royals,bat,N,Chennai Super Kings,Wickets,7,F du Plessis,40,3
+548331,2012,25,15,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,5,CH Gayle,19,16
+548330,2012,24,11,Pune Warriors,field,N,Chennai Super Kings,Runs,13,KMDN Kulasekara,42,43
+548321,2012,23,10,Deccan Chargers,bat,N,Delhi Capitals,Wickets,5,KP Pietersen,41,46
+548328,2012,22,15,Punjab Kings,bat,N,Kolkata Knight Riders,Wickets,8,G Gambhir,36,16
+548327,2012,21,16,Pune Warriors,bat,N,Royal Challengers Bangalore,Wickets,6,CH Gayle,44,43
+548326,2012,20,17,Deccan Chargers,bat,N,Rajasthan Royals,Wickets,5,BJ Hodge,40,3
+548325,2012,19,3,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,S Nadeem,41,46
+548324,2012,18,16,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,59,AM Rahane,36,16
+548323,2012,17,2,Kolkata Knight Riders,field,N,Punjab Kings,Runs,2,SP Narine,42,44
+548322,2012,16,25,Chennai Super Kings,bat,N,Pune Warriors,Wickets,7,JD Ryder,40,3
+548320,2012,15,2,Rajasthan Royals,bat,N,Kolkata Knight Riders,Wickets,5,Shakib Al Hasan,42,44
+548319,2012,14,15,Punjab Kings,field,N,Punjab Kings,Wickets,7,AD Mascarenhas,27,46
+548318,2012,13,11,Royal Challengers Bangalore,bat,N,Chennai Super Kings,Wickets,5,F du Plessis,32,16
+548317,2012,12,3,Rajasthan Royals,field,N,Mumbai Indians,Runs,27,KA Pollard,40,3
+548316,2012,11,10,Delhi Capitals,field,N,Delhi Capitals,Wickets,8,M Morkel,42,46
+548315,2012,10,16,Royal Challengers Bangalore,field,N,Kolkata Knight Riders,Runs,42,L Balaji,19,16
+548314,2012,9,14,Deccan Chargers,bat,N,Mumbai Indians,Wickets,5,RG Sharma,4,36
+548313,2012,8,25,Pune Warriors,bat,N,Pune Warriors,Runs,22,MN Samuels,43,52
+548312,2012,7,17,Kolkata Knight Riders,field,N,Rajasthan Royals,Runs,22,BJ Hodge,41,27
+548311,2012,6,14,Deccan Chargers,field,N,Chennai Super Kings,Runs,74,RA Jadeja,36,32
+548310,2012,5,16,Delhi Capitals,field,N,Royal Challengers Bangalore,Runs,20,AB de Villiers,44,19
+548309,2012,4,17,Punjab Kings,field,N,Rajasthan Royals,Runs,31,AM Rahane,41,46
+548308,2012,3,3,Mumbai Indians,field,N,Pune Warriors,Runs,28,SPD Smith,4,52
+548307,2012,2,2,Delhi Capitals,field,N,Delhi Capitals,Wickets,8,IK Pathan,44,32
+548306,2012,1,11,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,RE Levi,36,52
+501271,2011,Final,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,58,M Vijay,42,52
+501270,2011,Qualifier 2,11,Mumbai Indians,field,N,Royal Challengers Bangalore,Runs,43,CH Gayle,42,52
+501269,2011,Elimination Final,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,MM Patel,42,52
+501268,2011,Qualifier 1,3,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,SK Raina,42,52
+501267,2011,70,2,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,JEC Franklin,46,52
+501266,2011,69,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,8,CH Gayle,47,48
+501265,2011,68,10,Delhi Capitals,bat,,,NoResults,,,39,16
+501264,2011,67,26,Punjab Kings,field,N,Deccan Chargers,Runs,82,S Dhawan,42,49
+501263,2011,66,3,Mumbai Indians,bat,N,Rajasthan Royals,Wickets,10,SR Watson,48,23
+501262,2011,65,5,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,YK Pathan,19,52
+501261,2011,64,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,11,WP Saha,32,48
+501260,2011,63,26,Punjab Kings,bat,N,Punjab Kings,Runs,111,AC Gilchrist,42,49
+501259,2011,62,5,Deccan Chargers,field,N,Deccan Chargers,Wickets,6,A Mishra,19,46
+501258,2011,61,18,Kochi Tuskers Kerala,field,N,Kochi Tuskers Kerala,Wickets,8,BJ Hodge,23,16
+501257,2011,60,26,Delhi Capitals,field,N,Punjab Kings,Runs,29,PP Chawla,42,55
+501255,2011,58,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,4,CH Gayle,48,61
+501256,2011,59,3,Deccan Chargers,bat,N,Deccan Chargers,Runs,10,A Mishra,19,46
+501254,2011,57,18,Punjab Kings,field,N,Punjab Kings,Wickets,6,KD Karthik,44,16
+501253,2011,56,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,18,MS Dhoni,49,55
+501252,2011,55,17,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,9,S Aravind,32,47
+501251,2011,54,15,Mumbai Indians,field,N,Punjab Kings,Runs,76,BA Bhatt,46,16
+501250,2011,53,13,Deccan Chargers,bat,N,Pune Warriors,Wickets,6,MR Marsh,42,49
+501249,2011,52,17,Rajasthan Royals,field,N,Chennai Super Kings,Runs,63,M Vijay,47,52
+501248,2011,51,15,Punjab Kings,bat,N,Pune Warriors,Wickets,5,R Sharma,46,16
+501247,2011,50,16,Kochi Tuskers Kerala,bat,N,Royal Challengers Bangalore,Wickets,9,CH Gayle,40,39
+501246,2011,49,3,Delhi Capitals,field,N,Mumbai Indians,Runs,32,AT Rayudu,47,52
+501245,2011,48,2,Chennai Super Kings,bat,N,Kolkata Knight Riders,Runs,10,Iqbal Abdulla,42,23
+501244,2011,47,16,Punjab Kings,field,N,Royal Challengers Bangalore,Runs,85,CH Gayle,40,61
+501243,2011,46,13,Delhi Capitals,field,N,Delhi Capitals,Wickets,4,V Sehwag,42,49
+501242,2011,45,27,Kolkata Knight Riders,field,N,Kochi Tuskers Kerala,Runs,17,BJ Hodge,19,16
+501241,2011,44,5,Pune Warriors,field,N,Mumbai Indians,Runs,21,R Sharma,32,52
+501240,2011,43,11,Rajasthan Royals,bat,N,Chennai Super Kings,Wickets,8,MEK Hussey,39,61
+501239,2011,42,13,Deccan Chargers,field,N,Kolkata Knight Riders,Runs,20,YK Pathan,44,16
+501238,2011,41,10,Kochi Tuskers Kerala,field,N,Kochi Tuskers Kerala,Wickets,7,P Parameswaran,42,55
+501237,2011,40,3,Punjab Kings,field,N,Mumbai Indians,Runs,23,KA Pollard,32,23
+501235,2011,38,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,LRPL Taylor,46,52
+501236,2011,39,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,19,JA Morkel,40,61
+501233,2011,36,27,Delhi Capitals,bat,N,Delhi Capitals,Runs,38,V Sehwag,32,62
+501234,2011,37,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,8,Iqbal Abdulla,49,55
+501232,2011,35,16,Pune Warriors,field,N,Royal Challengers Bangalore,Runs,26,V Kohli,40,39
+501231,2011,34,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,J Botha,42,46
+501230,2011,33,10,Delhi Capitals,field,N,Kolkata Knight Riders,Runs,17,MK Tiwary,23,16
+501228,2011,31,5,Pune Warriors,bat,N,Chennai Super Kings,Wickets,8,DE Bollinger,42,55
+501229,2011,32,27,Kochi Tuskers Kerala,field,N,Deccan Chargers,Runs,55,I Sharma,32,62
+501227,2011,30,10,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,3,V Kohli,44,16
+501226,2011,29,11,Pune Warriors,field,N,Chennai Super Kings,Runs,25,MEK Hussey,40,61
+501225,2011,28,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,8,SK Warne,45,46
+501224,2011,27,13,Deccan Chargers,field,N,Mumbai Indians,Runs,37,SL Malinga,32,62
+501223,2011,26,10,Punjab Kings,field,N,Delhi Capitals,Runs,29,DA Warner,44,48
+501222,2011,24,2,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,9,CH Gayle,39,61
+501221,2011,25,3,Chennai Super Kings,field,N,Mumbai Indians,Runs,8,Harbhajan Singh,42,49
+501220,2011,23,15,Rajasthan Royals,field,N,Punjab Kings,Runs,48,SE Marsh,44,23
+501218,2011,21,3,Pune Warriors,bat,N,Mumbai Indians,Wickets,7,MM Patel,42,49
+501219,2011,22,2,Kolkata Knight Riders,field,N,Kochi Tuskers Kerala,Runs,6,DPMD Jayawardene,40,61
+501216,2011,19,10,Deccan Chargers,bat,N,Deccan Chargers,Runs,16,S Sohal,23,16
+501215,2011,18,27,Kochi Tuskers Kerala,field,N,Kochi Tuskers Kerala,Wickets,7,BB McCullum,47,62
+501214,2011,17,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,8,L Balaji,40,61
+501213,2011,16,5,Delhi Capitals,field,N,Delhi Capitals,Wickets,3,Yuvraj Singh,42,49
+501212,2011,15,13,Punjab Kings,field,N,Punjab Kings,Wickets,8,PC Valthaty,48,19
+501211,2011,14,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,21,MEK Hussey,32,62
+501210,2011,13,3,Kochi Tuskers Kerala,field,N,Kochi Tuskers Kerala,Wickets,8,BB McCullum,45,23
+501209,2011,12,17,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,9,G Gambhir,40,39
+501208,2011,11,13,Royal Challengers Bangalore,field,N,Deccan Chargers,Runs,33,DW Steyn,48,19
+501207,2011,10,5,Kochi Tuskers Kerala,bat,N,Pune Warriors,Wickets,4,MD Mishra,44,23
+501206,2011,9,15,Punjab Kings,field,N,Punjab Kings,Wickets,6,PC Valthaty,42,55
+501204,2011,7,17,Delhi Capitals,bat,N,Rajasthan Royals,Wickets,6,SK Warne,40,61
+501205,2011,8,16,Mumbai Indians,field,N,Mumbai Indians,Wickets,9,SR Tendulkar,32,62
+501203,2011,6,2,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,9,JH Kallis,48,46
+501202,2011,5,5,Punjab Kings,bat,N,Pune Warriors,Wickets,7,SB Wagh,45,23
+501201,2011,4,10,Delhi Capitals,bat,N,Mumbai Indians,Wickets,8,SL Malinga,49,61
+501200,2011,3,27,Kochi Tuskers Kerala,bat,N,Royal Challengers Bangalore,Wickets,6,AB de Villiers,32,47
+501199,2011,2,13,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,8,SK Trivedi,48,46
+501198,2011,1,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,2,S Anirudha,45,23
+419165,2010,Final,5,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,22,SK Raina,48,52
+419164,2010,3rd Place Play-Off,5,Deccan Chargers,bat,N,Royal Challengers Bangalore,Wickets,9,A Kumble,48,52
+419163,2010,Semi Final,5,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,38,DE Bollinger,45,61
+419162,2010,Semi Final,5,Mumbai Indians,bat,N,Mumbai Indians,Runs,35,KA Pollard,45,61
+419161,2010,56,2,Mumbai Indians,bat,N,Kolkata Knight Riders,Wickets,9,M Kartik,50,48
+419160,2010,55,10,Deccan Chargers,bat,N,Deccan Chargers,Runs,11,A Symonds,45,46
+419159,2010,54,26,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,6,MS Dhoni,41,49
+419158,2010,53,2,Rajasthan Royals,bat,N,Kolkata Knight Riders,Wickets,8,JD Unadkat,50,61
+419157,2010,52,16,Royal Challengers Bangalore,field,N,Mumbai Indians,Runs,57,R McLaren,32,52
+419156,2010,51,26,Deccan Chargers,field,N,Deccan Chargers,Wickets,5,RG Sharma,15,49
+419155,2010,50,11,Chennai Super Kings,bat,N,Delhi Capitals,Wickets,6,G Gambhir,32,39
+419154,2010,49,17,Rajasthan Royals,bat,N,Royal Challengers Bangalore,Wickets,5,KP Pietersen,45,19
+419153,2010,48,11,Kolkata Knight Riders,bat,N,Chennai Super Kings,Wickets,9,R Ashwin,39,52
+419152,2010,47,4,Mumbai Indians,bat,N,Mumbai Indians,Runs,39,KA Pollard,44,53
+419151,2010,46,28,Royal Challengers Bangalore,field,N,Deccan Chargers,Runs,13,Harmeet Singh,48,61
+419150,2010,45,17,Rajasthan Royals,field,N,Mumbai Indians,Runs,37,SR Tendulkar,45,46
+419149,2010,44,10,Delhi Capitals,bat,N,Punjab Kings,Wickets,7,PP Chawla,41,49
+419148,2010,43,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,7,R Vinay Kumar,47,53
+419147,2010,42,28,Chennai Super Kings,bat,N,Deccan Chargers,Wickets,6,RJ Harris,32,52
+419146,2010,41,15,Mumbai Indians,bat,N,Punjab Kings,Wickets,6,KC Sangakkara,15,49
+419145,2010,40,16,Deccan Chargers,field,N,Deccan Chargers,Wickets,7,TL Suman,44,53
+419144,2010,39,2,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,14,SC Ganguly,50,48
+419143,2010,38,17,Punjab Kings,bat,N,Rajasthan Royals,Wickets,9,MJ Lumb,19,46
+419142,2010,37,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,24,SK Raina,44,53
+419141,2010,36,28,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,2,SK Warne,32,52
+419139,2010,34,2,Kolkata Knight Riders,bat,N,Punjab Kings,Wickets,8,DPMD Jayawardene,44,53
+419140,2010,35,10,Delhi Capitals,bat,N,Delhi Capitals,Runs,37,PD Collingwood,41,15
+419138,2010,33,4,Mumbai Indians,bat,N,Mumbai Indians,Runs,63,AT Rayudu,45,19
+419137,2010,32,11,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,23,M Vijay,48,61
+419136,2010,31,15,Punjab Kings,bat,N,Royal Challengers Bangalore,Wickets,6,KP Pietersen,41,15
+419135,2010,30,2,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,24,SC Ganguly,47,53
+419134,2010,29,10,Delhi Capitals,bat,N,Delhi Capitals,Runs,67,KD Karthik,32,52
+419133,2010,28,11,Royal Challengers Bangalore,bat,N,Chennai Super Kings,Wickets,5,M Vijay,50,48
+419132,2010,27,4,Mumbai Indians,field,N,Mumbai Indians,Wickets,4,SL Malinga,45,46
+419131,2010,26,10,Delhi Capitals,bat,N,Delhi Capitals,Runs,40,DA Warner,39,52
+419130,2010,25,5,Deccan Chargers,field,N,Mumbai Indians,Runs,41,Harbhajan Singh,43,47
+419129,2010,24,23,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,17,NV Ojha,39,52
+419127,2010,23,15,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,39,MK Tiwary,45,19
+419126,2010,22,23,Deccan Chargers,bat,N,Rajasthan Royals,Wickets,8,YK Pathan,32,52
+419125,2010,21,4,Mumbai Indians,field,N,Mumbai Indians,Wickets,5,SR Tendulkar,49,41
+419128,2010,20,16,Royal Challengers Bangalore,field,N,Delhi Capitals,Runs,17,KM Jadhav,50,48
+419124,2010,19,15,Punjab Kings,field,N,Rajasthan Royals,Runs,31,AC Voges,45,46
+419123,2010,18,16,Chennai Super Kings,field,N,Royal Challengers Bangalore,Runs,36,RV Uthappa,48,61
+419122,2010,17,4,Kolkata Knight Riders,bat,N,Mumbai Indians,Wickets,7,SR Tendulkar,39,52
+419121,2010,16,11,Chennai Super Kings,field,Y,Punjab Kings,SuperOver,,J Theron,47,53
+419120,2010,15,24,Deccan Chargers,bat,N,Deccan Chargers,Runs,10,A Symonds,41,15
+419119,2010,14,4,Mumbai Indians,bat,N,Royal Challengers Bangalore,Wickets,7,JH Kallis,32,39
+419118,2010,13,23,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,34,AA Jhunjhunwala,48,61
+419116,2010,11,10,Delhi Capitals,bat,N,Chennai Super Kings,Wickets,5,ML Hayden,45,46
+419117,2010,12,24,Punjab Kings,field,N,Deccan Chargers,Runs,6,A Symonds,41,15
+419115,2010,10,16,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,10,JH Kallis,47,53
+419114,2010,9,10,Delhi Capitals,field,N,Mumbai Indians,Runs,98,SR Tendulkar,45,46
+419113,2010,8,2,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,55,MS Dhoni,32,49
+419112,2010,7,16,Punjab Kings,bat,N,Royal Challengers Bangalore,Wickets,8,JH Kallis,43,53
+419111,2010,6,23,Delhi Capitals,field,N,Delhi Capitals,Wickets,6,V Sehwag,50,48
+419109,2010,4,2,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,7,MK Tiwary,32,49
+419110,2010,5,11,Deccan Chargers,bat,N,Deccan Chargers,Runs,31,WPUJC Vaas,47,53
+419108,2010,3,15,Delhi Capitals,field,N,Delhi Capitals,Wickets,5,G Gambhir,45,19
+419107,2010,2,4,Mumbai Indians,bat,N,Mumbai Indians,Runs,4,YK Pathan,48,61
+419106,2010,1,5,Deccan Chargers,field,N,Kolkata Knight Riders,Runs,11,AD Mathews,48,61
+392239,2009,Final,29,Royal Challengers Bangalore,field,N,Deccan Chargers,Runs,6,A Kumble,48,52
+392238,2009,Semi Final,29,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,6,MK Pandey,48,52
+392237,2009,Semi Final,30,Deccan Chargers,field,N,Deccan Chargers,Wickets,6,AC Gilchrist,45,53
+392236,2009,56,30,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,12,MK Pandey,51,19
+392235,2009,55,30,Delhi Capitals,field,N,Delhi Capitals,Wickets,4,V Sehwag,51,19
+392234,2009,54,31,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,24,M Muralitharan,50,52
+392233,2009,53,31,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Wickets,4,LR Shukla,50,52
+392232,2009,52,29,Delhi Capitals,bat,N,Royal Challengers Bangalore,Wickets,7,JH Kallis,51,61
+392231,2009,51,30,Chennai Super Kings,bat,N,Kolkata Knight Riders,Wickets,7,BJ Hodge,52,61
+392230,2009,50,32,Delhi Capitals,bat,N,Delhi Capitals,Runs,14,AB de Villiers,39,51
+392229,2009,49,29,Deccan Chargers,field,N,Punjab Kings,Runs,1,Yuvraj Singh,19,61
+392227,2009,47,33,Mumbai Indians,bat,N,Chennai Super Kings,Wickets,7,ML Hayden,46,52
+392228,2009,48,29,Deccan Chargers,field,N,Deccan Chargers,Wickets,6,RG Sharma,48,19
+392226,2009,46,32,Punjab Kings,field,N,Punjab Kings,Wickets,6,B Lee,32,51
+392225,2009,45,31,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,2,SK Warne,45,53
+392224,2009,44,31,Chennai Super Kings,bat,N,Royal Challengers Bangalore,Wickets,2,LRPL Taylor,45,53
+392223,2009,43,31,Deccan Chargers,field,N,Delhi Capitals,Runs,12,R Bhatia,53,55
+392222,2009,42,30,Punjab Kings,bat,N,Mumbai Indians,Wickets,8,Harbhajan Singh,39,48
+392221,2009,41,30,Royal Challengers Bangalore,field,N,Royal Challengers Bangalore,Wickets,6,LRPL Taylor,15,39
+392220,2009,40,34,Deccan Chargers,bat,N,Deccan Chargers,Runs,53,DR Smith,54,32
+392219,2009,39,29,Delhi Capitals,field,N,Delhi Capitals,Wickets,7,A Mishra,55,61
+392218,2009,38,33,Mumbai Indians,bat,N,Mumbai Indians,Runs,16,JP Duminy,45,50
+392216,2009,36,34,Punjab Kings,field,N,Punjab Kings,Wickets,3,DPMD Jayawardene,54,49
+392217,2009,37,34,Rajasthan Royals,bat,N,Chennai Super Kings,Wickets,7,S Badrinath,54,32
+392215,2009,35,35,Mumbai Indians,bat,N,Delhi Capitals,Wickets,7,A Nehra,15,46
+392214,2009,34,30,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,12,ML Hayden,53,63
+392213,2009,33,30,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,A Singh,47,53
+392212,2009,32,30,Deccan Chargers,bat,N,Deccan Chargers,Runs,19,RG Sharma,56,32
+392211,2009,31,31,Kolkata Knight Riders,bat,N,Delhi Capitals,Wickets,9,G Gambhir,54,51
+392210,2009,30,31,Punjab Kings,field,N,Rajasthan Royals,Runs,78,GC Smith,39,51
+392209,2009,29,35,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,78,MS Dhoni,45,15
+392208,2009,28,29,Mumbai Indians,bat,N,Royal Challengers Bangalore,Wickets,9,JH Kallis,48,63
+392207,2009,27,33,Kolkata Knight Riders,bat,N,Punjab Kings,Wickets,6,DPMD Jayawardene,44,56
+392205,2009,25,33,Deccan Chargers,bat,N,Rajasthan Royals,Wickets,3,YK Pathan,44,50
+392206,2009,26,29,Delhi Capitals,field,N,Chennai Super Kings,Runs,18,SB Jakati,53,48
+392203,2009,23,35,Mumbai Indians,bat,N,Mumbai Indians,Runs,9,JP Duminy,15,46
+392204,2009,24,31,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,8,Yuvraj Singh,32,19
+392202,2009,22,30,Rajasthan Royals,field,N,Chennai Super Kings,Runs,38,SK Raina,54,48
+392201,2009,21,30,Delhi Capitals,field,N,Delhi Capitals,Wickets,6,DP Nannes,54,49
+392200,2009,20,31,Punjab Kings,bat,N,Punjab Kings,Runs,3,KC Sangakkara,56,55
+392199,2009,19,31,Kolkata Knight Riders,bat,N,Royal Challengers Bangalore,Wickets,5,MV Boucher,56,63
+392198,2009,18,30,Delhi Capitals,bat,N,Rajasthan Royals,Wickets,5,YK Pathan,54,48
+392197,2009,17,33,Mumbai Indians,bat,N,Mumbai Indians,Runs,92,SR Tendulkar,50,61
+392196,2009,16,31,Deccan Chargers,field,N,Deccan Chargers,Wickets,6,HH Gibbs,51,63
+392194,2009,14,33,Royal Challengers Bangalore,bat,N,Delhi Capitals,Wickets,6,TM Dilshan,44,50
+392195,2009,15,36,Punjab Kings,bat,N,Punjab Kings,Runs,27,KC Sangakkara,15,47
+392192,2009,12,31,Deccan Chargers,bat,N,Deccan Chargers,Runs,12,PP Ojha,32,52
+392191,2009,11,31,Royal Challengers Bangalore,bat,N,Punjab Kings,Wickets,7,RS Bopara,45,63
+392190,2009,10,36,Kolkata Knight Riders,field,Y,Rajasthan Royals,SuperOver,,YK Pathan,56,15
+392189,2009,9,31,Delhi Capitals,bat,N,Delhi Capitals,Runs,9,AB de Villiers,45,52
+392188,2009,8,36,Deccan Chargers,bat,N,Deccan Chargers,Runs,24,AC Gilchrist,15,49
+392186,2009,6,31,Kolkata Knight Riders,field,N,Kolkata Knight Riders,Runs,11,CH Gayle,53,64
+392185,2009,5,33,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,92,M Muralitharan,50,52
+392184,2009,4,36,Kolkata Knight Riders,bat,N,Deccan Chargers,Wickets,8,RP Singh,56,45
+392183,2009,3,36,Delhi Capitals,field,N,Delhi Capitals,Wickets,10,DL Vettori,56,64
+392182,2009,2,36,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,75,R Dravid,45,61
+392181,2009,1,36,Chennai Super Kings,field,N,Mumbai Indians,Runs,19,SR Tendulkar,45,47
+336040,2008,Final,5,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,YK Pathan,41,48
+336039,2008,Semi Final,3,Punjab Kings,bat,N,Chennai Super Kings,Wickets,9,M Ntini,42,53
+336038,2008,Semi Final,3,Delhi Capitals,field,N,Rajasthan Royals,Runs,105,SR Watson,41,48
+336019,2008,56,15,Rajasthan Royals,field,N,Punjab Kings,Runs,41,SE Marsh,57,47
+336012,2008,55,16,Mumbai Indians,field,N,Mumbai Indians,Wickets,9,CRD Fernando,41,58
+336037,2008,54,13,Deccan Chargers,bat,N,Chennai Super Kings,Wickets,7,SK Raina,50,49
+336036,2008,53,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,5,Sohail Tanvir,41,47
+336035,2008,52,2,Punjab Kings,bat,N,Kolkata Knight Riders,Wickets,3,Umar Gul,57,65
+336002,2008,51,13,Deccan Chargers,bat,N,Royal Challengers Bangalore,Wickets,5,R Vinay Kumar,42,48
+336033,2008,49,11,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,10,JA Morkel,53,55
+336032,2008,50,10,Delhi Capitals,field,N,Delhi Capitals,Wickets,5,KD Karthik,41,47
+336031,2008,48,15,Punjab Kings,field,N,Punjab Kings,Wickets,6,SE Marsh,42,57
+336029,2008,46,11,Royal Challengers Bangalore,bat,N,Royal Challengers Bangalore,Runs,14,A Kumble,53,65
+336028,2008,45,3,Mumbai Indians,field,N,Punjab Kings,Runs,1,SE Marsh,41,66
+336027,2008,44,2,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,6,YK Pathan,50,48
+336026,2008,43,16,Delhi Capitals,field,N,Delhi Capitals,Wickets,5,SP Goswami,57,66
+336025,2008,41,2,Kolkata Knight Riders,bat,N,Chennai Super Kings,Runs,3,M Ntini,42,47
+336024,2008,42,13,Deccan Chargers,field,N,Mumbai Indians,Runs,25,DJ Bravo,45,53
+336022,2008,40,10,Delhi Capitals,bat,N,Punjab Kings,Runs,6,DPMD Jayawardene,58,48
+336023,2008,39,17,Royal Challengers Bangalore,field,N,Rajasthan Royals,Runs,65,GC Smith,41,55
+336021,2008,38,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,8,SM Pollock,45,53
+336020,2008,37,10,Deccan Chargers,field,N,Delhi Capitals,Runs,12,A Mishra,50,66
+336018,2008,36,3,Mumbai Indians,field,N,Mumbai Indians,Wickets,9,ST Jayasuriya,45,49
+336017,2008,35,2,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,23,Shoaib Akhtar,42,51
+336016,2008,34,15,Royal Challengers Bangalore,bat,N,Punjab Kings,Wickets,9,SE Marsh,45,65
+336015,2008,33,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,SR Watson,57,48
+336014,2008,32,13,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,23,SC Ganguly,51,49
+336013,2008,31,11,Punjab Kings,field,N,Chennai Super Kings,Runs,18,L Balaji,58,50
+336011,2008,30,17,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,8,YK Pathan,56,49
+336009,2008,28,10,Chennai Super Kings,field,N,Chennai Super Kings,Wickets,4,MS Dhoni,40,61
+336010,2008,29,2,Kolkata Knight Riders,bat,N,Kolkata Knight Riders,Runs,5,SC Ganguly,42,51
+336008,2008,27,5,Mumbai Indians,field,N,Mumbai Indians,Wickets,7,A Nehra,53,48
+336007,2008,26,11,Deccan Chargers,field,N,Deccan Chargers,Wickets,7,AC Gilchrist,56,61
+336006,2008,25,16,Punjab Kings,field,N,Punjab Kings,Wickets,6,S Sreesanth,57,45
+336005,2008,24,17,Chennai Super Kings,bat,N,Rajasthan Royals,Wickets,8,Sohail Tanvir,42,58
+336004,2008,23,5,Delhi Capitals,field,N,Mumbai Indians,Runs,29,SM Pollock,51,48
+336034,2008,21,16,Deccan Chargers,field,N,Royal Challengers Bangalore,Runs,3,P Kumar,45,55
+336003,2008,22,15,Punjab Kings,bat,N,Punjab Kings,Runs,9,IK Pathan,53,65
+336001,2008,20,11,Chennai Super Kings,bat,N,Delhi Capitals,Wickets,8,V Sehwag,41,47
+336000,2008,18,17,Rajasthan Royals,bat,N,Rajasthan Royals,Runs,45,SA Asnodkar,48,66
+335999,2008,19,13,Punjab Kings,field,N,Punjab Kings,Wickets,7,SE Marsh,45,61
+335998,2008,17,10,Royal Challengers Bangalore,field,N,Delhi Capitals,Runs,10,GD McGrath,40,65
+335997,2008,16,2,Kolkata Knight Riders,bat,N,Mumbai Indians,Wickets,7,ST Jayasuriya,41,58
+335996,2008,15,16,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,13,MS Dhoni,45,61
+335995,2008,13,15,Delhi Capitals,bat,N,Punjab Kings,Wickets,4,SM Katich,48,65
+335994,2008,14,5,Deccan Chargers,field,N,Deccan Chargers,Wickets,10,AC Gilchrist,42,55
+335993,2008,11,11,Kolkata Knight Riders,bat,N,Chennai Super Kings,Wickets,9,JDP Oram,41,58
+335992,2008,12,16,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,7,SR Watson,56,51
+335991,2008,10,15,Mumbai Indians,field,N,Punjab Kings,Runs,66,KC Sangakkara,40,49
+335990,2008,9,13,Rajasthan Royals,field,N,Rajasthan Royals,Wickets,3,YK Pathan,42,56
+335989,2008,8,11,Mumbai Indians,field,N,Chennai Super Kings,Runs,6,ML Hayden,53,66
+335988,2008,7,13,Deccan Chargers,bat,N,Delhi Capitals,Wickets,9,V Sehwag,51,49
+335987,2008,6,17,Punjab Kings,bat,N,Rajasthan Royals,Wickets,6,SR Watson,40,61
+335986,2008,4,2,Deccan Chargers,bat,N,Kolkata Knight Riders,Wickets,5,DJ Hussey,41,47
+335985,2008,5,3,Mumbai Indians,bat,N,Royal Challengers Bangalore,Wickets,5,MV Boucher,57,53
+335984,2008,3,10,Rajasthan Royals,bat,N,Delhi Capitals,Wickets,9,MF Maharoof,40,66
+335983,2008,2,15,Chennai Super Kings,bat,N,Chennai Super Kings,Runs,33,MEK Hussey,56,55
+335982,2008,1,16,Royal Challengers Bangalore,field,N,Kolkata Knight Riders,Runs,140,BB McCullum,42,48
