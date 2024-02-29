@@ -1,4 +1,4 @@
-![Screenshot 2023-11-20 032556](https://github.com/ShreyanshAcharya/IPL_Analysis/assets/59439172/97f4b5c9-47be-493d-b09b-cb65341db9f1)# IPL Cricket Analytics Project
+# IPL Cricket Analytics Project
 ## Screenshots of the login Page
 ![Screenshot 2023-11-20 072032](https://github.com/ShreyanshAcharya/IPL_Analysis/assets/59439172/f7b5b7cf-c95e-4546-bf4e-0cf82b49175e)
 
